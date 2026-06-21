@@ -1,0 +1,52 @@
+{
+  "themes": [
+    {
+      "slug": "asynchrone",
+      "label": "Asynchrone",
+      "color": "#00BFFF",
+      "desc": "Classe inversée, capsules vidéo, Moodle, autonomie"
+    },
+    {
+      "slug": "hybride",
+      "label": "Hybride",
+      "color": "#10d9b3",
+      "desc": "Présentiel + distanciel, BYOD, salles connectées"
+    },
+    {
+      "slug": "ia-pedagogie",
+      "label": "IA en pédagogie",
+      "color": "#a78bfa",
+      "desc": "Usage formateur, évaluation, RGPD, posture"
+    },
+    {
+      "slug": "gestion-conflits",
+      "label": "Gestion de conflits",
+      "color": "#ef4444",
+      "desc": "Médiation, communication non-violente, posture d'autorité"
+    },
+    {
+      "slug": "evaluation",
+      "label": "Évaluation",
+      "color": "#fbbf24",
+      "desc": "Sommative, formative, par compétences, oral"
+    },
+    {
+      "slug": "motivation",
+      "label": "Motivation & engagement",
+      "color": "#ff5c8a",
+      "desc": "Théorie de l'autodétermination, gamification, sens"
+    },
+    {
+      "slug": "inclusion",
+      "label": "Inclusion & différenciation",
+      "color": "#34d399",
+      "desc": "Élèves à besoins particuliers, pédagogie différenciée"
+    },
+    {
+      "slug": "neurosciences",
+      "label": "Neurosciences",
+      "color": "#60a5fa",
+      "desc": "Charge cognitive, mémoire, attention, métacognition"
+    }
+  ]
+}

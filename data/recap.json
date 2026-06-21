@@ -1,0 +1,26 @@
+{
+  "semaine": 25,
+  "annee": 2026,
+  "titre": "Trois ressources de référence pour repenser sa pédagogie en 2026.",
+  "lead": "Le Récap hebdo arrive chaque dimanche soir. En attendant, trois portes d'entrée vérifiables sur la pédagogie du supérieur tertiaire.",
+  "items": [
+    {
+      "type": "etude",
+      "titre": "Cnesco — publications sur les enjeux pédagogiques",
+      "lead": "Le Centre national d'étude des systèmes scolaires publie des rapports indépendants sur les pratiques pédagogiques. Référence francophone.",
+      "url": "https://www.cnesco.fr/publications/"
+    },
+    {
+      "type": "cadre",
+      "titre": "Éduscol — ressources d'enseignement",
+      "lead": "Le portail officiel du ministère de l'Éducation, ressources pédagogiques par discipline et par niveau, mises à jour régulièrement.",
+      "url": "https://www.eduscol.education.fr/"
+    },
+    {
+      "type": "veille",
+      "titre": "IGÉSR — rapports de l'Inspection générale",
+      "lead": "L'IGÉSR publie des rapports thématiques sur l'enseignement supérieur. Indispensable pour comprendre où va le système.",
+      "url": "https://www.education.gouv.fr/l-inspection-generale-de-l-education-du-sport-et-de-la-recherche-igesr-7077"
+    }
+  ]
+}

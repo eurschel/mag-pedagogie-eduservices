@@ -1,0 +1,3 @@
+# Le Blog IA — par Eduservices — accès restreint en cours de mise en place
+User-agent: *
+Disallow: /

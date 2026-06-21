@@ -1,0 +1,221 @@
+{
+  "n1": {
+    "slug": "fondamentaux",
+    "label": "Module 1",
+    "tagline": "Les fondamentaux pédagogiques",
+    "long": "Comprendre comment on apprend, bâtir une séquence efficace, tenir la classe. Les bases qui rendent un cours mémorable.",
+    "color": "#00BFFF",
+    "hero_img": "/static/img/gemini/dashboard-rh-talents.jpg",
+    "modules": [
+      {
+        "num": 1,
+        "slug": "apprendre",
+        "title": "Comprendre comment on apprend",
+        "duree": "50 min",
+        "tagline": "Neurosciences, charge cognitive, mémoire, attention — ce que la science nous dit du cerveau qui apprend.",
+        "tags": [
+          "neurosciences",
+          "apprentissage"
+        ],
+        "img": "/static/img/gemini/dashboard-rh-talents.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 1 · Apprendre",
+            "lead": "Les bases pour comprendre l'acte d'apprendre — à venir.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "slug": "sequence",
+        "title": "Bâtir une séquence efficace",
+        "duree": "55 min",
+        "tagline": "Objectifs, fil rouge, rebrassage, évaluation formative. La trame qui structure un cours qui tient.",
+        "tags": [
+          "sequence",
+          "conception"
+        ],
+        "img": "/static/img/gemini/dashboard-rh-talents.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 1 · Séquence",
+            "lead": "De l'objectif au livrable.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "slug": "posture",
+        "title": "Posture du formateur",
+        "duree": "45 min",
+        "tagline": "Autorité bienveillante, médiation, communication. Le formateur, pas que la matière.",
+        "tags": [
+          "posture",
+          "autorite"
+        ],
+        "img": "/static/img/gemini/dashboard-rh-talents.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 1 · Posture",
+            "lead": "Le formateur incarne autant qu'il transmet.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "slug": "motivation",
+        "title": "Motivation et engagement",
+        "duree": "50 min",
+        "tagline": "Autodétermination, sens, gamification. Ce qui fait qu'un apprenant accroche — ou décroche.",
+        "tags": [
+          "motivation",
+          "engagement"
+        ],
+        "img": "/static/img/gemini/dashboard-rh-talents.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 1 · Motivation",
+            "lead": "Trois leviers durables pour engager.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "slug": "evaluation",
+        "title": "Évaluer juste",
+        "duree": "55 min",
+        "tagline": "Sommative, formative, par compétences. Comment évaluer sans tuer l'envie d'apprendre.",
+        "tags": [
+          "evaluation"
+        ],
+        "img": "/static/img/gemini/dashboard-rh-talents.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 1 · Évaluation",
+            "lead": "L'évaluation au service de l'apprentissage.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "n2": {
+    "slug": "active",
+    "label": "Module 2",
+    "tagline": "Pédagogie active 2026",
+    "long": "Asynchrone, hybride, gestion de classe moderne, inclusion, IA-friendly. Les formes nouvelles d'enseigner — ce qui change vraiment.",
+    "color": "#a78bfa",
+    "hero_img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+    "modules": [
+      {
+        "num": 1,
+        "slug": "asynchrone",
+        "title": "Pédagogie asynchrone",
+        "duree": "60 min",
+        "tagline": "Classe inversée, capsules vidéo, parcours Moodle. L'apprenant apprend sans vous, vous accompagnez sans cours.",
+        "tags": [
+          "asynchrone",
+          "classe-inversee"
+        ],
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 2 · Asynchrone",
+            "lead": "Quand l'apprenant prend la main.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 2,
+        "slug": "hybride",
+        "title": "Pédagogie hybride",
+        "duree": "55 min",
+        "tagline": "Présentiel + distanciel, BYOD, salles connectées. Articuler les deux modes sans dédoubler le travail.",
+        "tags": [
+          "hybride",
+          "blended"
+        ],
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 2 · Hybride",
+            "lead": "Le meilleur des deux mondes.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 3,
+        "slug": "conflits",
+        "title": "Gestion de conflits en classe",
+        "duree": "50 min",
+        "tagline": "Médiation, communication non-violente, désamorçage. Quand la classe dérape — la boîte à outils du formateur.",
+        "tags": [
+          "conflits",
+          "mediation"
+        ],
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 2 · Conflits",
+            "lead": "Désamorcer avant que ça explose.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 4,
+        "slug": "inclusion",
+        "title": "Inclusion et différenciation",
+        "duree": "55 min",
+        "tagline": "Apprenants à besoins particuliers, pédagogie différenciée. Faire avancer le groupe sans laisser personne au bord.",
+        "tags": [
+          "inclusion",
+          "differenciation"
+        ],
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 2 · Inclusion",
+            "lead": "Une classe = vingt cheminements.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      },
+      {
+        "num": 5,
+        "slug": "evaluer-autrement",
+        "title": "Évaluer autrement",
+        "duree": "55 min",
+        "tagline": "Oral spontané, projet, portfolio, évaluation par les pairs. Sortir du QCM pour mesurer ce qui compte vraiment.",
+        "tags": [
+          "evaluation-active",
+          "oral"
+        ],
+        "img": "/static/img/gemini/mosaique-profs-etudiants.jpg",
+        "sections": [
+          {
+            "type": "cours",
+            "titre": "Cours intégral — Module 2 · Évaluer autrement",
+            "lead": "De nouvelles modalités pour de nouveaux apprentissages.",
+            "html": "<p>Contenu à rédiger en Phase 2.</p>"
+          }
+        ]
+      }
+    ]
+  }
+}
