@@ -4,22 +4,22 @@
       "slug": "asynchrone",
       "label": "Asynchrone",
       "color": "#00BFFF",
-      "desc": "Classe inversée, capsules vidéo, Moodle, autonomie"
+      "desc": "Classe inversée, capsules vidéo, autonomie"
     },
     {
       "slug": "hybride",
       "label": "Hybride",
       "color": "#10d9b3",
-      "desc": "Présentiel + distanciel, BYOD, salles connectées"
+      "desc": "Présentiel + distanciel articulés"
     },
     {
-      "slug": "ia-pedagogie",
-      "label": "IA en pédagogie",
+      "slug": "ia-classe",
+      "label": "IA en classe",
       "color": "#a78bfa",
-      "desc": "Usage formateur, évaluation, RGPD, posture"
+      "desc": "ChatGPT et collègues : usage formateur, posture, évaluation"
     },
     {
-      "slug": "gestion-conflits",
+      "slug": "conflits",
       "label": "Gestion de conflits",
       "color": "#ef4444",
       "desc": "Médiation, communication non-violente, posture d'autorité"
@@ -28,25 +28,25 @@
       "slug": "evaluation",
       "label": "Évaluation",
       "color": "#fbbf24",
-      "desc": "Sommative, formative, par compétences, oral"
+      "desc": "Formative, par compétences, grilles, oraux, portfolio"
     },
     {
       "slug": "motivation",
-      "label": "Motivation & engagement",
+      "label": "Motivation",
       "color": "#ff5c8a",
-      "desc": "Théorie de l'autodétermination, gamification, sens"
+      "desc": "Autodétermination, engagement, sens"
     },
     {
       "slug": "inclusion",
-      "label": "Inclusion & différenciation",
+      "label": "Inclusion & DYS",
       "color": "#34d399",
-      "desc": "Élèves à besoins particuliers, pédagogie différenciée"
+      "desc": "Neurodiversité, TDAH, HPI, école inclusive"
     },
     {
-      "slug": "neurosciences",
-      "label": "Neurosciences",
+      "slug": "posture",
+      "label": "Posture enseignante",
       "color": "#60a5fa",
-      "desc": "Charge cognitive, mémoire, attention, métacognition"
+      "desc": "Présence, autorité bienveillante, climat de classe"
     }
   ]
 }
