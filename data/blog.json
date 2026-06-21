@@ -1,3 +1,1700 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "id": "asynchrone-001",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "Interview de Marcel Lebrun",
+      "source": "Primàbord - Éduscol",
+      "auteur": "Primàbord",
+      "date": "2017-09-05",
+      "url": "https://primabord.eduscol.education.fr/interview-de-marcel-lebrun-pour-prim-a-bord",
+      "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80",
+      "lead": "Interview audio et vidéo de Marcel Lebrun, professeur au Louvain Learning Lab, sur les classes inversées et les enjeux d'une pédagogie active. Repenser les espaces et temps d'apprentissage à l'aune des outils numériques.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "marcel-lebrun",
+        "pedagogie-active"
+      ]
+    },
+    {
+      "id": "asynchrone-002",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "fiche",
+      "titre": "Classe inversée et pédagogies actives en BTS Travaux Publics",
+      "source": "Éduscol STI",
+      "auteur": "Catherine Dherbecourt - Lycée Gustave Eiffel, Talange",
+      "date": "2022-01-01",
+      "url": "https://sti.eduscol.education.fr/ressources_pedagogiques/classe-inversee-et-pedagogies-actives-en-bts-travaux-publics",
+      "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+      "lead": "Scénario pédagogique complet pour BTS Travaux Publics : séquence de découverte de l'étude de prix par les étudiants de première année, avec modules d'auto-formation SCORM, documents enseignant/élève et retours d'expérience.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "BTS",
+        "travaux-publics",
+        "scenario-pedagogique"
+      ]
+    },
+    {
+      "id": "asynchrone-003",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "La classe inversée en SVT",
+      "source": "Café pédagogique",
+      "auteur": "Marion van Brederode (analyse)",
+      "date": "2022-02-01",
+      "url": "https://www.cafepedagogique.net/2022/02/01/la-classe-inversee-en-svt-2/",
+      "img": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=1200&q=80",
+      "lead": "Analyse critique d'une séquence de SVT en classe inversée : la chercheuse questionne le rôle de la capsule vidéo et le travail de groupe, montrant que l'intention de résoudre les obstacles de l'enseignement traditionnel n'est pas toujours atteinte.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "SVT",
+        "capsule-video",
+        "recherche"
+      ]
+    },
+    {
+      "id": "asynchrone-004",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "La classe inversée dans Recherches en éducation",
+      "source": "Café pédagogique",
+      "auteur": "Café pédagogique",
+      "date": "2022-02-05",
+      "url": "https://www.cafepedagogique.net/2022/02/05/la-classe-inversee-dans-recherches-en-education/",
+      "img": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&q=80",
+      "lead": "Recension du numéro 46 de la revue Recherches en éducation consacré à la classe inversée. Le réseau Reseida interroge ce dispositif promu par l'institution, en s'appuyant notamment sur une étude des classes inversées en mathématiques.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "recherche",
+        "mathematiques",
+        "revue"
+      ]
+    },
+    {
+      "id": "asynchrone-005",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "Marie Soulié : Enseigner en classe inversée",
+      "source": "Café pédagogique",
+      "auteur": "Marie Soulié (interview)",
+      "date": "2022-07-07",
+      "url": "https://www.cafepedagogique.net/2022/07/07/marie-soulie-enseigner-en-classe-inversee/",
+      "img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&q=80",
+      "lead": "Entretien avec Marie Soulié, professeure de français, qui raconte son cheminement vers la classe inversée à travers échecs, reculs et avancées. Un guide concret pour les enseignants curieux d'expérimenter ce changement de posture.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "retour-experience",
+        "francais",
+        "posture-enseignante"
+      ]
+    },
+    {
+      "id": "asynchrone-006",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "Histoire : La colonisation en classe inversée",
+      "source": "Café pédagogique",
+      "auteur": "Adrien Ferré",
+      "date": "2023-09-15",
+      "url": "https://www.cafepedagogique.net/2023/09/15/histoire-la-colonisation-en-classe-inversee/",
+      "img": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80",
+      "lead": "Adrien Ferré propose une séquence de classe inversée en histoire où le cours n'est pas livré sous forme de capsule vidéo, mais d'un dossier documentaire enrichi sur Genially que les élèves explorent pour construire leur propre trace écrite.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "histoire",
+        "Genially",
+        "retour-experience"
+      ]
+    },
+    {
+      "id": "asynchrone-007",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "La classe inversée, bilan d'une expérience",
+      "source": "Educavox",
+      "auteur": "An@é",
+      "date": "2013-06-16",
+      "url": "https://educavox.fr/innovation/pedagogie/la-classe-inversee-bilan-d-une-experience",
+      "img": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=1200&q=80",
+      "lead": "Retour d'expérience approfondi sur une année de classe inversée en collège : du contexte de réseau de réussite scolaire à l'usage de tablettes tactiles, l'enseignant détaille les apports et limites du dispositif pour mettre les élèves en activité.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "retour-experience",
+        "tablettes",
+        "bilan"
+      ]
+    },
+    {
+      "id": "asynchrone-008",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "Les classes inversées, vers une approche systémique (2)",
+      "source": "The Conversation France",
+      "auteur": "Marcel Lebrun et Gemma Serrano",
+      "date": "2016-11-02",
+      "url": "https://theconversation.com/les-classes-inversees-vers-une-approche-systemique-2-67324",
+      "img": "https://images.unsplash.com/photo-1610484826917-0f101a7c2b22?w=1200&q=80",
+      "lead": "Selon les enseignants, de l'école primaire à l'enseignement supérieur, on voit émerger une large variété de classes inversées. État des lieux par Marcel Lebrun et Gemma Serrano, dans une approche systémique du phénomène.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "marcel-lebrun",
+        "approche-systemique",
+        "enseignement-superieur"
+      ]
+    },
+    {
+      "id": "asynchrone-009",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "« Classe renversée » : pourquoi laisser les clés de la classe aux étudiants",
+      "source": "The Conversation France",
+      "auteur": "Catou Faust",
+      "date": "2019-01-29",
+      "url": "https://theconversation.com/classe-renversee-pourquoi-laisser-les-cles-de-la-classe-aux-etudiants-110446",
+      "img": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&q=80",
+      "lead": "Alors que la classe inversée remodèle la distribution des cours et des apprentissages personnels, la classe renversée invite les étudiants à co-construire les enseignements. Retour sur une méthode engageante dans le supérieur.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "classe-renversee",
+        "etudiants",
+        "enseignement-superieur"
+      ]
+    },
+    {
+      "id": "asynchrone-010",
+      "theme": "asynchrone",
+      "themes": [
+        "asynchrone"
+      ],
+      "type": "article",
+      "titre": "Comment mettre en place la classe inversée ?",
+      "source": "Sydologie",
+      "auteur": "Les Sydologues",
+      "date": "2016-01-01",
+      "url": "https://sydologie.com/2016/01/comment-mettre-en-place-la-classe-inversee/",
+      "img": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&q=80",
+      "lead": "La classe inversée propose de chambouler le modèle traditionnel : on découvre le cours chez soi (asynchrone), on fait des exercices en classe. Guide pratique des Sydologues pour réussir sa mise en place.",
+      "tags": [
+        "asynchrone",
+        "classe-inversee",
+        "guide-pratique",
+        "mise-en-place"
+      ]
+    },
+    {
+      "id": "hybride-001",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "Concevoir un enseignement comodal, quelles différences avec un dispositif hybride ?",
+      "source": "Innovation Pédagogique",
+      "auteur": "Louvain Learning Lab (UCLouvain)",
+      "date": "2020-12-19",
+      "url": "https://www.innovation-pedagogique.fr/article8474.html",
+      "img": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&q=80",
+      "lead": "Retour d'expérience UCLouvain : différencier l'hybride (articulation présence/distance) du comodal (simultanéité d'une classe physique et virtuelle), avec les implications pédagogiques et techniques.",
+      "tags": [
+        "hybride",
+        "comodal",
+        "distanciel",
+        "UCLouvain",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "hybride-002",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "Hybrider les formations dans l'enseignement supérieur : questions et perspectives postpandémiques",
+      "source": "Innovation Pédagogique (reprise DMS n°49)",
+      "auteur": "Luc Massou",
+      "date": "2025-03-28",
+      "url": "https://www.innovation-pedagogique.fr/article22142.html",
+      "img": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=1200&q=80",
+      "lead": "Reprise du débat-discussion de la revue Distances et médiations des savoirs sur l'hybridation post-Covid dans le supérieur : enjeux pédagogiques, organisationnels et perspectives de recherche.",
+      "tags": [
+        "hybride",
+        "supérieur",
+        "post-Covid",
+        "DMS",
+        "recherche"
+      ]
+    },
+    {
+      "id": "hybride-003",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "etude",
+      "titre": "Enrichissement du concept d'hybridation éducative : 10 formes d'hybridation pour innover en formation",
+      "source": "Innovation Pédagogique (reprise DMS)",
+      "auteur": "Jean-François Céci",
+      "date": "2025-10-15",
+      "url": "https://www.innovation-pedagogique.fr/article23962.html",
+      "img": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?w=1200&q=80",
+      "lead": "Cadre théorique récent qui distingue dix formes d'hybridation (spatiale, temporelle, médiatique, sociale...) pour aider les enseignants à concevoir des dispositifs riches au-delà du simple présentiel/distanciel.",
+      "tags": [
+        "hybride",
+        "typologie",
+        "innovation",
+        "ingénierie pédagogique"
+      ]
+    },
+    {
+      "id": "hybride-004",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "Quatre conditions pour offrir de la formation à distance… même en classe",
+      "source": "The Conversation France",
+      "auteur": "Normand Roy et collègues",
+      "date": "2021-06-28",
+      "url": "https://theconversation.com/quatre-conditions-pour-offrir-de-la-formation-a-distance-meme-en-classe-158860",
+      "img": "https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?w=1200&q=80",
+      "lead": "Quatre conditions pour réussir l'enseignement comodal : s'imaginer qu'allumer une caméra dans la classe suffit est un désastre annoncé. Synthèse pratique pour enseignants du supérieur.",
+      "tags": [
+        "comodal",
+        "hybride",
+        "distanciel",
+        "présentiel",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "hybride-005",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "À quelles conditions les outils numériques aident-ils les étudiants à réussir ?",
+      "source": "The Conversation France",
+      "auteur": "Emmanuelle Villiot-Leclercq",
+      "date": "2022-09-07",
+      "url": "https://theconversation.com/a-quelles-conditions-les-outils-numeriques-aident-ils-les-etudiants-a-reussir-186175",
+      "img": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&q=80",
+      "lead": "Avec la crise du Covid, les outils numériques se sont installés durablement dans le supérieur : comment les mobiliser dans un hybride utile aux étudiants plutôt qu'en empilement technologique.",
+      "tags": [
+        "hybride",
+        "numérique",
+        "supérieur",
+        "réussite étudiante"
+      ]
+    },
+    {
+      "id": "hybride-006",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "Céline Maaz : Hybrider l'enseignement du français ?",
+      "source": "Le Café pédagogique",
+      "auteur": "Café pédagogique (interview Céline Maaz)",
+      "date": "2024-01-22",
+      "url": "https://www.cafepedagogique.net/2024/01/22/celine-maaz-hybrider-lenseignement-du-francais/",
+      "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80",
+      "lead": "Retour d'expérience d'enseignante : la fin de l'enseignement à distance devait-elle sonner la fin des classes virtuelles ? Hybridation raisonnée comme prolongement durable du présentiel.",
+      "tags": [
+        "hybride",
+        "retour d'expérience",
+        "classe virtuelle",
+        "pratiques"
+      ]
+    },
+    {
+      "id": "hybride-007",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "article",
+      "titre": "Une formation Pré-stanciel, s'il vous plaît !",
+      "source": "Sydologie",
+      "auteur": "Sydologie",
+      "date": "2023-04-15",
+      "url": "https://sydologie.com/2023/04/une-formation-pre-stanciel-sil-vous-plait/",
+      "img": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1200&q=80",
+      "lead": "Billet d'humeur d'ingénieur pédagogique sur la commande devenue banale d'une formation qui doit fonctionner à la fois en présentiel et en distanciel : pièges, conditions et bonnes pratiques.",
+      "tags": [
+        "hybride",
+        "ingénierie pédagogique",
+        "formation",
+        "présentiel-distanciel"
+      ]
+    },
+    {
+      "id": "hybride-008",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "video",
+      "titre": "Webinaire #IA4Sup — l'hybridation à l'ère de l'IA (Marcel Lebrun et Christophe Batier)",
+      "source": "YouTube",
+      "auteur": "Marcel Lebrun, Christophe Batier",
+      "date": "2025-07-03",
+      "url": "https://www.youtube.com/watch?v=IuwKaKOWXug",
+      "img": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?w=1200&q=80",
+      "lead": "Webinaire récent : Marcel Lebrun (UCLouvain) et Christophe Batier (Lyon 1) actualisent leur réflexion sur l'hybridation à l'heure de l'IA générative dans l'enseignement supérieur.",
+      "tags": [
+        "hybride",
+        "IA",
+        "supérieur",
+        "Lebrun",
+        "webinaire"
+      ]
+    },
+    {
+      "id": "hybride-009",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "video",
+      "titre": "Conférence du Pr. Marcel Lebrun — Hybridation des enseignements (CLISE 2021)",
+      "source": "YouTube / DANE de Paris",
+      "auteur": "Marcel Lebrun",
+      "date": "2021-01-30",
+      "url": "https://www.youtube.com/watch?v=N93Y9vaR6SI",
+      "img": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&q=80",
+      "lead": "Conférence de référence de Marcel Lebrun sur l'hybridation des enseignements : continuum présence-distance, cohérence des activités d'apprentissage et conditions d'efficacité.",
+      "tags": [
+        "hybride",
+        "Lebrun",
+        "conférence",
+        "fondamentaux"
+      ]
+    },
+    {
+      "id": "hybride-010",
+      "theme": "hybride",
+      "themes": [
+        "hybride"
+      ],
+      "type": "rapport",
+      "titre": "Colloque national Hybridation des formations de l'enseignement supérieur — Brochure",
+      "source": "MESR / SGPI / ANR",
+      "auteur": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",
+      "date": "2023-01-18",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2023-01/colloque-hybridation-des-formations---brochure-26128.pdf",
+      "img": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&q=80",
+      "lead": "Bilan de l'AAP Hybridation 2020-2022 : 34 projets, 40 M€, 166 établissements. Brochure officielle synthétisant retours d'expérience, modèles et perspectives pour l'enseignement supérieur français.",
+      "tags": [
+        "hybride",
+        "supérieur",
+        "rapport",
+        "AAP",
+        "France"
+      ]
+    },
+    {
+      "id": "ia-classe-001",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "Face à l'IA, l'enseignant ne doit pas se transformer en chasseur de fraudes, mais repenser sa pédagogie",
+      "source": "The Conversation France",
+      "auteur": "Cécile Méadel (Université Paris-Panthéon-Assas)",
+      "date": "2025-11-03",
+      "url": "https://theconversation.com/face-a-lia-lenseignant-ne-doit-pas-se-transformer-en-chasseur-de-fraudes-mais-repenser-sa-pedagogie-267587",
+      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80",
+      "lead": "Plutôt que de courir après la triche, l'enseignant gagne à reconcevoir consignes, évaluations et postures pour intégrer l'IA générative comme un objet d'apprentissage.",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "posture-enseignante",
+        "evaluation",
+        "triche",
+        "pedagogie"
+      ]
+    },
+    {
+      "id": "ia-classe-002",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "ChatGPT à l'université : pourquoi encadrer vaut mieux qu'interdire ou laisser-faire",
+      "source": "The Conversation France",
+      "auteur": "Karine Revet (Burgundy School of Business)",
+      "date": "2025-06-23",
+      "url": "https://theconversation.com/chatgpt-a-luniversite-pourquoi-encadrer-vaut-mieux-quinterdire-ou-laisser-faire-257364",
+      "img": "https://images.unsplash.com/photo-1655720828018-7461df8b2dba?w=1200&q=80",
+      "lead": "Une chercheuse en école de commerce plaide pour un cadrage explicite des usages de ChatGPT par les étudiants — ni interdiction stérile, ni laisser-faire — appuyé sur un contrat pédagogique.",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "enseignement-superieur",
+        "ecole-commerce",
+        "posture-enseignante",
+        "cadre-usage"
+      ]
+    },
+    {
+      "id": "ia-classe-003",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "Ce que ChatGPT change à l'évaluation des élèves",
+      "source": "The Conversation France",
+      "auteur": "Charles Hadji (Université Grenoble Alpes)",
+      "date": "2025-01-26",
+      "url": "https://theconversation.com/ce-que-chatgpt-change-a-levaluation-des-eleves-247287",
+      "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80",
+      "lead": "L'enjeu n'est pas seulement de lutter contre la triche : c'est d'inventer des modes d'évaluation cohérents avec un environnement où l'IA générative est accessible en permanence.",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "evaluation",
+        "posture-enseignante",
+        "fraude"
+      ]
+    },
+    {
+      "id": "ia-classe-004",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "Face à ChatGPT, apprendre à apprendre avec la méthode du « Maître Ignorant »",
+      "source": "The Conversation France",
+      "auteur": "Régis Martineau (ICN Business School)",
+      "date": "2024-03-25",
+      "url": "https://theconversation.com/face-a-chatgpt-apprendre-a-apprendre-avec-la-methode-du-maitre-ignorant-225810",
+      "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+      "lead": "Relire Jacques Rancière à l'ère de l'IA générative : et si la posture du Maître Ignorant offrait une alternative féconde au cours magistral comme à la délégation totale à la machine ?",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "posture-enseignante",
+        "philosophie-education",
+        "ecole-commerce"
+      ]
+    },
+    {
+      "id": "ia-classe-005",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "L'IA générative, un moyen de développer l'approche par compétences",
+      "source": "The Conversation France",
+      "auteur": "Chrysta Pelissier (Université de Montpellier)",
+      "date": "2025-11-19",
+      "url": "https://theconversation.com/lia-generative-un-moyen-de-developper-lapproche-par-competences-267766",
+      "img": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80",
+      "lead": "Une chercheuse en sciences du langage montre comment l'IA générative, bien encadrée, peut servir l'approche par compétences en BUT et en licence professionnelle.",
+      "tags": [
+        "ia-generative",
+        "approche-competences",
+        "but",
+        "enseignement-superieur",
+        "posture-enseignante"
+      ]
+    },
+    {
+      "id": "ia-classe-006",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "La relation des étudiants à l'IA, entre soutien aux apprentissages et menace pour l'estime de soi",
+      "source": "The Conversation France",
+      "auteur": "Giulia Pavone (Kedge Business School)",
+      "date": "2025-09-09",
+      "url": "https://theconversation.com/la-relation-des-etudiants-a-lia-entre-soutien-aux-apprentissages-et-menace-pour-lestime-de-soi-261402",
+      "img": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&q=80",
+      "lead": "Une étude en école de commerce révèle l'ambivalence du rapport étudiant à ChatGPT : aide perçue à l'apprentissage, mais sentiment d'imposture et baisse d'estime de soi.",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "etudiants",
+        "ecole-commerce",
+        "estime-de-soi",
+        "posture-enseignante"
+      ]
+    },
+    {
+      "id": "ia-classe-007",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "Enseignants et IA, le grand écart ?",
+      "source": "Café pédagogique",
+      "auteur": "Bruno Devauchelle",
+      "date": "2026-02-06",
+      "url": "https://www.cafepedagogique.net/2026/02/06/enseignants-et-ia-le-grand-ecart/",
+      "img": "https://images.unsplash.com/photo-1593376853899-fbb47a057fa0?w=1200&q=80",
+      "lead": "Bruno Devauchelle constate un écart croissant entre les enseignants qui s'emparent de l'IA pour leur travail personnel et ceux qui peinent à la pédagogiser en classe.",
+      "tags": [
+        "ia-generative",
+        "posture-enseignante",
+        "formation-enseignants",
+        "chatgpt",
+        "cafepedagogique"
+      ]
+    },
+    {
+      "id": "ia-classe-008",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "dossier",
+      "titre": "L'intelligence artificielle en éducation : rupture ou continuité ? — Édurevue n°154",
+      "source": "IFÉ – ENS de Lyon",
+      "auteur": "Institut français de l'Éducation, Service Veille et analyses",
+      "date": "2025-09-01",
+      "url": "https://ife.ens-lyon.fr/ressources/lintelligence-artificielle-en-education-rupture-ou-continuite",
+      "img": "https://images.unsplash.com/photo-1684163761893-d31a44c8b6c4?w=1200&q=80",
+      "lead": "Dossier de veille de l'IFÉ : cadre conceptuel, technique et éthique de l'IA générative en éducation, et perspectives d'usages raisonnés en classe.",
+      "tags": [
+        "ia-generative",
+        "dossier-veille",
+        "ife",
+        "rupture-continuite",
+        "ethique",
+        "posture-enseignante"
+      ]
+    },
+    {
+      "id": "ia-classe-009",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "podcast",
+      "titre": "Des étudiants aux professeurs, quels usages de ChatGPT dans l'enseignement supérieur ?",
+      "source": "France Culture – Un monde connecté",
+      "auteur": "France Culture",
+      "date": "2024-04-13",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/des-etudiants-aux-professeurs-quels-usages-de-chat-gpt-dans-l-enseignement-superieur-6153108",
+      "img": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=1200&q=80",
+      "lead": "Reportage radio : comment étudiants et enseignants du supérieur s'approprient ChatGPT, entre tricherie, dialogue pédagogique et nouvelles consignes d'évaluation.",
+      "tags": [
+        "ia-generative",
+        "chatgpt",
+        "podcast",
+        "enseignement-superieur",
+        "france-culture"
+      ]
+    },
+    {
+      "id": "ia-classe-010",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe"
+      ],
+      "type": "video",
+      "titre": "Usages de l'IA en éducation : intégrer des outils d'IA en classe — webinaire 2 MOOC AI4T",
+      "source": "AI4Teachers / Inria – YouTube",
+      "auteur": "Projet européen AI4T (Erasmus+, coordonné par Inria)",
+      "date": "2024-04-11",
+      "url": "https://www.youtube.com/watch?v=Gxv3M8jdcE4",
+      "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "lead": "Webinaire du MOOC AI4T (Inria) : retours d'expérience d'enseignants européens qui intègrent l'IA générative en classe, et démarches d'usage raisonné.",
+      "tags": [
+        "ia-generative",
+        "video",
+        "inria",
+        "ai4t",
+        "mooc",
+        "formation-enseignants",
+        "chatgpt"
+      ]
+    },
+    {
+      "id": "conflits-001",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Comment aider les élèves à régler leurs conflits",
+      "source": "The Conversation France",
+      "auteur": "Nicolas Duval-Valachs",
+      "date": "2023-09-05",
+      "url": "https://theconversation.com/comment-aider-les-eleves-a-regler-leurs-conflits-206216",
+      "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&q=80",
+      "lead": "Analyse des dispositifs de médiation par les pairs et des postures enseignantes qui aident les jeunes à transformer un différend en occasion d'apprentissage social.",
+      "tags": [
+        "conflits",
+        "mediation",
+        "climat-scolaire",
+        "pairs"
+      ]
+    },
+    {
+      "id": "conflits-002",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "École : exclure les élèves harceleurs, est-ce vraiment la solution ?",
+      "source": "The Conversation France",
+      "auteur": "Amira Karray Derivois",
+      "date": "2023-09-19",
+      "url": "https://theconversation.com/ecole-exclure-les-eleves-harceleurs-est-ce-vraiment-la-solution-211950",
+      "img": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80",
+      "lead": "Pourquoi la sanction d'exclusion seule échoue à enrayer le harcèlement, et quelles alternatives restauratives mobiliser pour reconstruire le lien dans le groupe-classe.",
+      "tags": [
+        "conflits",
+        "harcelement",
+        "climat-scolaire",
+        "sanction"
+      ]
+    },
+    {
+      "id": "conflits-003",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Les émotions, une clé de la lutte contre le harcèlement scolaire",
+      "source": "The Conversation France",
+      "auteur": "Bérengère Stassin",
+      "date": "2019-09-08",
+      "url": "https://theconversation.com/les-emotions-une-cle-de-la-lutte-contre-le-harcelement-scolaire-122880",
+      "img": "https://images.unsplash.com/photo-1573497019418-b400bb3ab074?w=1200&q=80",
+      "lead": "Comprendre le rôle des compétences émotionnelles dans la prévention du harcèlement et identifier les leviers que peuvent activer enseignants et personnels de vie scolaire.",
+      "tags": [
+        "conflits",
+        "harcelement",
+        "emotions",
+        "prevention"
+      ]
+    },
+    {
+      "id": "conflits-004",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Les parents à l'épreuve du harcèlement scolaire",
+      "source": "The Conversation France",
+      "auteur": "Amira Karray Derivois",
+      "date": "2024-11-04",
+      "url": "https://theconversation.com/les-parents-a-lepreuve-du-harcelement-scolaire-234236",
+      "img": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=1200&q=80",
+      "lead": "Ce que vivent les familles face au harcèlement et pistes pour articuler la réponse de l'établissement avec un accompagnement parental, indispensable au climat scolaire.",
+      "tags": [
+        "conflits",
+        "harcelement",
+        "parents",
+        "climat-scolaire"
+      ]
+    },
+    {
+      "id": "conflits-005",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Des chiens dans les écoles : la médiation animale pour prendre soin des élèves",
+      "source": "The Conversation France",
+      "auteur": "Laura Nicolas, Sylvain Wagnon",
+      "date": "2023-06-06",
+      "url": "https://theconversation.com/des-chiens-dans-les-ecoles-la-mediation-animale-pour-prendre-soin-des-eleves-206715",
+      "img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80",
+      "lead": "Retour de chercheurs sur la médiation animale en milieu scolaire : effets sur le climat de classe, l'apaisement des tensions et le rapport aux apprentissages.",
+      "tags": [
+        "conflits",
+        "mediation",
+        "climat-scolaire",
+        "bien-etre"
+      ]
+    },
+    {
+      "id": "conflits-006",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Alerte sur une dégradation du climat scolaire",
+      "source": "Café pédagogique",
+      "auteur": "Café pédagogique",
+      "date": "2024-12-03",
+      "url": "https://www.cafepedagogique.net/2024/12/03/alerte-sur-une-degradation-du-climat-scolaire/",
+      "img": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&q=80",
+      "lead": "Synthèse des derniers indicateurs nationaux : tensions, incivilités, perception des personnels — et leçons pour les équipes pédagogiques du supérieur professionnel.",
+      "tags": [
+        "conflits",
+        "climat-scolaire",
+        "violence",
+        "etablissement"
+      ]
+    },
+    {
+      "id": "conflits-007",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Un « B.A.R à bonheur » pour un climat scolaire plus serein",
+      "source": "Café pédagogique",
+      "auteur": "Djéhanne Hassan",
+      "date": "2024-01-10",
+      "url": "https://www.cafepedagogique.net/2024/01/10/un-b-a-r-a-bonheur-pour-un-climat-scolaire-plus-serein/",
+      "img": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?w=1200&q=80",
+      "lead": "Retour de terrain sur un dispositif d'écoute et de régulation entre pairs qui désamorce les conflits avant qu'ils ne dégradent durablement le climat d'établissement.",
+      "tags": [
+        "conflits",
+        "climat-scolaire",
+        "mediation",
+        "pairs",
+        "bien-etre"
+      ]
+    },
+    {
+      "id": "conflits-008",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "article",
+      "titre": "Climat scolaire : ensemble, c'est tout",
+      "source": "Les Cahiers pédagogiques",
+      "auteur": "Peggy Colcanap",
+      "date": "2019-02-07",
+      "url": "https://www.cahiers-pedagogiques.com/climat-scolaire-ensemble-c-est-tout/",
+      "img": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=1200&q=80",
+      "lead": "Pourquoi le climat scolaire est l'affaire de toute la communauté éducative : approche systémique et leviers concrets pour les équipes du second cycle et du supérieur.",
+      "tags": [
+        "conflits",
+        "climat-scolaire",
+        "equipe-pedagogique"
+      ]
+    },
+    {
+      "id": "conflits-009",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "video",
+      "titre": "Bruno Humbeeck : Harcèlement et violences scolaires",
+      "source": "YouTube",
+      "auteur": "Bruno Humbeeck (Université de Mons)",
+      "date": "2017-03-15",
+      "url": "https://www.youtube.com/watch?v=K_3n2tepLv8",
+      "img": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&q=80",
+      "lead": "Conférence du psychopédagogue Bruno Humbeeck sur la mécanique du harcèlement et les dispositifs concrets (espaces de parole, cours de récréation) pour prévenir les violences.",
+      "tags": [
+        "conflits",
+        "harcelement",
+        "video",
+        "mediation",
+        "prevention"
+      ]
+    },
+    {
+      "id": "conflits-010",
+      "theme": "conflits",
+      "themes": [
+        "conflits"
+      ],
+      "type": "video",
+      "titre": "Médiation par les pairs - Témoignage de Maïssa, élève-médiatrice",
+      "source": "YouTube",
+      "auteur": "Ministère de l'Éducation nationale / France Médiation",
+      "date": "2021-11-16",
+      "url": "https://www.youtube.com/watch?v=HRom89EyxiY",
+      "img": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&q=80",
+      "lead": "Témoignage vidéo court d'une élève-médiatrice : posture, formation reçue, retours sur la résolution de petits conflits — transposable aux dispositifs étudiants du supérieur.",
+      "tags": [
+        "conflits",
+        "mediation",
+        "pairs",
+        "video",
+        "cnv"
+      ]
+    },
+    {
+      "id": "inclusion-001",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "dossier",
+      "titre": "Lancement du Mooc \"Troubles du Neuro-Développement : Autisme, Dys, TDAH, TDI\"",
+      "source": "INSEI",
+      "auteur": "INSEI / École des TND",
+      "date": "2025-11-17",
+      "url": "https://www.insei.fr/ressources/lancement-du-mooc-troubles-du-neuro-developpement-autisme-dys-tdah-tdi-0",
+      "img": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=1200&q=80",
+      "lead": "L'INSEI annonce la mise en ligne sur FUN d'un MOOC en 7 modules pour mieux comprendre les TND (autisme, dys, TDAH, TDI) chez l'enfant et l'adolescent et adapter les pratiques pédagogiques au quotidien.",
+      "tags": [
+        "inclusion",
+        "neurodiversité",
+        "MOOC",
+        "TND",
+        "TDAH"
+      ]
+    },
+    {
+      "id": "inclusion-002",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "fiche",
+      "titre": "CP5 - Le TDAH à l'école : le comprendre et savoir proposer un accompagnement pédagogique",
+      "source": "INSEI",
+      "auteur": "INSEI",
+      "date": "2024-09-01",
+      "url": "https://www.insei.fr/formation/cp5-le-tdah-a-lecole-le-comprendre-et-savoir-proposer-un-accompagnement-pedagogique",
+      "img": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=1200&q=80",
+      "lead": "Formation INSEI de 18 heures (asynchrone + synchrone) qui présente les mécanismes cognitifs du TDAH et propose des leviers concrets d'accompagnement pédagogique pour les enseignants.",
+      "tags": [
+        "inclusion",
+        "TDAH",
+        "formation",
+        "accompagnement"
+      ]
+    },
+    {
+      "id": "inclusion-003",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "dossier",
+      "titre": "Troubles du Neuro-Développement : Autisme, Dys, TDAH, TDI",
+      "source": "FUN MOOC / École des TND",
+      "auteur": "Pr Amaria Baghdadli et al., CHU Montpellier",
+      "date": "2025-11-17",
+      "url": "https://www.fun-mooc.fr/fr/cours/tnd-autisme-dys-tdah-tdi-ecole-des-tnd/",
+      "img": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=1200&q=80",
+      "lead": "MOOC gratuit de 14 h sur FUN qui décrit les TND, leurs signes cliniques, parcours de vie et accompagnements ; ouvert aux enseignants comme aux familles, avec sous-titres et version FALC.",
+      "tags": [
+        "inclusion",
+        "MOOC",
+        "TND",
+        "autisme",
+        "dys"
+      ]
+    },
+    {
+      "id": "inclusion-004",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "article",
+      "titre": "Rapport de la Cour des comptes sur l'inclusion scolaire : passer du quantitatif au qualitatif",
+      "source": "Café pédagogique",
+      "auteur": "Lilia Ben Hamouda",
+      "date": "2024-09-17",
+      "url": "https://www.cafepedagogique.net/2024/09/17/rapport-de-la-cour-des-comptes-sur-linclusion-scolaire-passer-du-quantitatif-au-qualitatif/",
+      "img": "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&q=80",
+      "lead": "Analyse du rapport de la Cour des comptes 2024 : le nombre d'élèves en situation de handicap scolarisés a triplé en 15 ans, mais la qualité de l'accompagnement (formation des enseignants, AESH) reste insuffisante.",
+      "tags": [
+        "inclusion",
+        "handicap",
+        "AESH",
+        "rapport"
+      ]
+    },
+    {
+      "id": "inclusion-005",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "article",
+      "titre": "L'école inclusive à bout de souffle",
+      "source": "Café pédagogique",
+      "auteur": "Djéhanne Gani",
+      "date": "2025-05-07",
+      "url": "https://www.cafepedagogique.net/2025/05/07/lecole-inclusive-a-bout-de-souffle/",
+      "img": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&q=80",
+      "lead": "Reportage critique sur les limites de l'école inclusive française : manque de moyens, fatigue des AESH et des enseignants, dispositifs PAS encore embryonnaires.",
+      "tags": [
+        "inclusion",
+        "AESH",
+        "handicap",
+        "PAS"
+      ]
+    },
+    {
+      "id": "inclusion-006",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "dossier",
+      "titre": "Atypie-Friendly — Programme national pour une université inclusive",
+      "source": "Atypie-Friendly",
+      "auteur": "Programme Atypie-Friendly",
+      "date": "2025-09-01",
+      "url": "https://atypie-friendly.fr/",
+      "img": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+      "lead": "Programme national qui rassemble plus de la moitié des universités françaises pour construire un enseignement supérieur inclusif des étudiants présentant un TND (autisme, TDAH, dys).",
+      "tags": [
+        "inclusion",
+        "université",
+        "neurodiversité",
+        "TND"
+      ]
+    },
+    {
+      "id": "inclusion-007",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "fiche",
+      "titre": "L'école — HyperSupers TDAH France",
+      "source": "HyperSupers - TDAH France",
+      "auteur": "Association HyperSupers TDAH France",
+      "date": "2024-05-01",
+      "url": "https://www.tdah-france.fr/-L-ecole-?lang=fr",
+      "img": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&q=80",
+      "lead": "Espace dédié aux enseignants et familles sur la scolarité des élèves TDAH : aménagements, droits, dispositifs, documentaire \"Plongée dans nos troubles\" pour la formation des équipes.",
+      "tags": [
+        "inclusion",
+        "TDAH",
+        "association",
+        "praticien"
+      ]
+    },
+    {
+      "id": "inclusion-008",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "video",
+      "titre": "TDAH + Haut Potentiel : Double peine ou double chance ? (Dr Olivier Revol)",
+      "source": "YouTube — Dr Olivier Revol",
+      "auteur": "Dr Olivier Revol",
+      "date": "2022-09-15",
+      "url": "https://www.youtube.com/watch?v=H-RSOaCWdCQ",
+      "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=1200&q=80",
+      "lead": "Conférence du pédopsychiatre lyonnais Olivier Revol sur la co-occurrence TDAH/HPI : reconnaître les profils mixtes, ajuster les regards et les pratiques pédagogiques.",
+      "tags": [
+        "inclusion",
+        "TDAH",
+        "HPI",
+        "vidéo"
+      ]
+    },
+    {
+      "id": "inclusion-009",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "article",
+      "titre": "Neurodivergence au travail, pourquoi une approche strictement médicale ne suffit pas",
+      "source": "The Conversation France",
+      "auteur": "Anne-Laure Gilet et al.",
+      "date": "2025-02-18",
+      "url": "https://theconversation.com/neurodivergence-au-travail-pourquoi-une-approche-strictement-medicale-ne-suffit-pas-242866",
+      "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+      "lead": "Plaidoyer pour dépasser le modèle médical du handicap et adopter une lecture sociale de la neurodivergence (autisme, TDAH, dys) ; utile aussi pour cadrer l'inclusion en formation supérieure.",
+      "tags": [
+        "inclusion",
+        "neurodiversité",
+        "TDAH",
+        "dys"
+      ]
+    },
+    {
+      "id": "inclusion-010",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "fiche",
+      "titre": "La scolarité des Dys — Fédération Française des DYS",
+      "source": "Fédération Française des DYS",
+      "auteur": "FFDys",
+      "date": "2024-09-01",
+      "url": "https://www.ffdys.com/le-droit-a-lecole/",
+      "img": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&q=80",
+      "lead": "Portail de référence de la FFDys (reconnue d'utilité publique) qui synthétise droits, aménagements, accompagnements et ressources pour les élèves dys et leurs enseignants, du primaire au supérieur.",
+      "tags": [
+        "inclusion",
+        "dys",
+        "association",
+        "praticien"
+      ]
+    },
+    {
+      "id": "evaluation-001",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "dossier",
+      "titre": "Comprendre — L'évaluation en classe, au service de l'apprentissage des élèves",
+      "source": "Cnesco",
+      "auteur": "Cnesco — Conférence de consensus",
+      "date": "2023-03-01",
+      "url": "https://www.cnesco.fr/fr/evaluation-en-classe/ressources-scientifiques/",
+      "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&q=80",
+      "lead": "Portail scientifique du Cnesco regroupant l'ensemble des contributions de chercheurs préparant la conférence de consensus 2022 sur l'évaluation en classe au service de l'apprentissage.",
+      "tags": [
+        "evaluation",
+        "Cnesco",
+        "recherche"
+      ]
+    },
+    {
+      "id": "evaluation-002",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "rapport",
+      "titre": "Recommandations du jury — Conférence de consensus L'évaluation en classe",
+      "source": "Cnesco",
+      "auteur": "Jury présidé par Dominique Lafontaine et Marie-Christine Toczek",
+      "date": "2023-03-01",
+      "url": "https://www.cnesco.fr/wp-content/uploads/2023/03/Cnesco-CC-Eval_RECOMMANDATIONS-DU-JURY.pdf",
+      "img": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+      "lead": "Rapport officiel du jury de la conférence de consensus : recommandations pour passer d'une évaluation normative à une évaluation critériée et formative au service des apprentissages.",
+      "tags": [
+        "evaluation",
+        "Cnesco",
+        "rapport",
+        "consensus"
+      ]
+    },
+    {
+      "id": "evaluation-003",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "rapport",
+      "titre": "Dossier de synthèse — L'évaluation en classe, au service de l'apprentissage",
+      "source": "Cnesco",
+      "auteur": "Cnesco / CNAM",
+      "date": "2023-03-01",
+      "url": "https://www.cnesco.fr/wp-content/uploads/2023/03/Cnesco-CC-Eval_Dossier-de-synthese.pdf",
+      "img": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&q=80",
+      "lead": "Synthèse opérationnelle du Cnesco : impact négatif de la référence normative, intérêt des feedbacks précis, des grilles critériées et de l'évaluation formative pour soutenir les apprentissages.",
+      "tags": [
+        "evaluation",
+        "Cnesco",
+        "synthèse",
+        "feedback"
+      ]
+    },
+    {
+      "id": "evaluation-004",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "Cnesco : Pourquoi une conférence de consensus sur l'évaluation ?",
+      "source": "Café pédagogique",
+      "auteur": "Lilia Ben Hamouda",
+      "date": "2022-11-22",
+      "url": "https://www.cafepedagogique.net/2022/11/22/cnesco-pourquoi-une-conference-de-consensus-sur-levaluation/",
+      "img": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1200&q=80",
+      "lead": "Entretien avec Nathalie Mons sur les raisons d'une conférence de consensus consacrée à l'évaluation, ses enjeux pour la classe ordinaire et les pistes ouvertes par la recherche.",
+      "tags": [
+        "evaluation",
+        "Cnesco",
+        "consensus"
+      ]
+    },
+    {
+      "id": "evaluation-005",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "À l'École de l'évaluation-exclusion",
+      "source": "Café pédagogique",
+      "auteur": "Bruno Devauchelle",
+      "date": "2026-01-12",
+      "url": "https://www.cafepedagogique.net/2026/01/12/a-lecole-de-levaluation-exclusion/",
+      "img": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=1200&q=80",
+      "lead": "Tribune critique sur les dérives de l'approche par compétences quand elle sert une logique d'employabilité plus qu'une logique d'apprentissage : utile pour penser l'évaluation en BTS/BUT.",
+      "tags": [
+        "evaluation",
+        "compétences",
+        "BTS",
+        "BUT"
+      ]
+    },
+    {
+      "id": "evaluation-006",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "Repenser les examens pour aider les étudiants à progresser : l'évaluation universitaire comme dialogue",
+      "source": "The Conversation France",
+      "auteur": "Marc Romainville",
+      "date": "2025-09-22",
+      "url": "https://theconversation.com/repenser-les-examens-pour-aider-les-etudiants-a-progresser-levaluation-universitaire-comme-dialogue-258833",
+      "img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80",
+      "lead": "Plaidoyer documenté pour une évaluation universitaire alignée sur les compétences visées : critères explicites, feedbacks formatifs, évaluation comme dialogue plutôt que comme sanction.",
+      "tags": [
+        "evaluation",
+        "supérieur",
+        "compétences",
+        "feedback"
+      ]
+    },
+    {
+      "id": "evaluation-007",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "Évaluation des étudiants : sortir de la note sur 20",
+      "source": "The Conversation France",
+      "auteur": "Pascal Detroz",
+      "date": "2017-10-17",
+      "url": "https://theconversation.com/evaluation-des-etudiants-sortir-de-la-note-sur-20-84632",
+      "img": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=1200&q=80",
+      "lead": "Pourquoi la note chiffrée freine l'évaluation des compétences dans le supérieur, et comment lui substituer des grilles critériées plus alignées sur les acquis d'apprentissage.",
+      "tags": [
+        "evaluation",
+        "supérieur",
+        "notation",
+        "compétences"
+      ]
+    },
+    {
+      "id": "evaluation-008",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "« L'envers des mots » : Docimologie",
+      "source": "The Conversation France",
+      "auteur": "Christophe Joigneaux",
+      "date": "2023-02-12",
+      "url": "https://theconversation.com/lenvers-des-mots-docimologie-203861",
+      "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+      "lead": "Mise au point sur la docimologie : la science des biais d'évaluation (effet de halo, ordre de correction, sévérité) — base indispensable pour fiabiliser ses pratiques d'évaluation.",
+      "tags": [
+        "evaluation",
+        "docimologie",
+        "biais"
+      ]
+    },
+    {
+      "id": "evaluation-009",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "L'évaluation par contrat de confiance",
+      "source": "Café pédagogique",
+      "auteur": "André Antibi",
+      "date": "2023-07-04",
+      "url": "https://www.cafepedagogique.net/2023/07/04/levaluation-par-contrat-de-confiance/",
+      "img": "https://images.unsplash.com/photo-1568667256549-094345857637?w=1200&q=80",
+      "lead": "Présentation par André Antibi du dispositif EPCC : programme de révision explicite avant l'évaluation, séance de questions/réponses, sortie de la « constante macabre ».",
+      "tags": [
+        "evaluation",
+        "EPCC",
+        "Antibi",
+        "constante macabre"
+      ]
+    },
+    {
+      "id": "evaluation-010",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "fiche",
+      "titre": "Le portfolio pour évaluer les apprentissages des étudiant-e-s",
+      "source": "Pédagogie universitaire",
+      "auteur": "Amaury Daele",
+      "date": "2010-11-03",
+      "url": "https://pedagogieuniversitaire.wordpress.com/2010/11/03/le-portfolio-pour-evaluer-les-apprentissages-des-etudiant-e-s/",
+      "img": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&q=80",
+      "lead": "Référence francophone sur le portfolio en enseignement supérieur : finalités (évaluative, formative, certificative), conditions de réussite et alignement avec l'approche par compétences (BUT, BTS).",
+      "tags": [
+        "evaluation",
+        "portfolio",
+        "supérieur",
+        "compétences"
+      ]
+    },
+    {
+      "id": "motivation-001",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "D'où vient la motivation ? Pourquoi certaines personnes en ont-elles plus que d'autres ?",
+      "source": "The Conversation France",
+      "auteur": "Marie-Anne K. Foucault",
+      "date": "2022-12-04",
+      "url": "https://theconversation.com/dou-vient-la-motivation-pourquoi-certaines-personnes-en-ont-elles-plus-que-dautres-193767",
+      "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+      "lead": "Synthèse accessible de la théorie de l'autodétermination de Deci et Ryan : motivation intrinsèque vs extrinsèque, continuum des régulations, besoins d'autonomie, compétence et appartenance.",
+      "tags": [
+        "motivation",
+        "autodétermination",
+        "Deci",
+        "Ryan"
+      ]
+    },
+    {
+      "id": "motivation-002",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Comment engager les étudiants dans leur parcours de formation",
+      "source": "The Conversation France",
+      "auteur": "Pascale Brandt-Pomares",
+      "date": "2018-10-04",
+      "url": "https://theconversation.com/comment-engager-les-etudiants-dans-leur-parcours-de-formation-104594",
+      "img": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=1200&q=80",
+      "lead": "Comment l'institution, les projets partenariaux et la reconnaissance par les pairs/entreprises soutiennent l'engagement des étudiants dans la construction de leurs compétences.",
+      "tags": [
+        "motivation",
+        "engagement",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "motivation-003",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Apprendre à l'université du XXIᵉ siècle ou comment nourrir son éléphant ?",
+      "source": "The Conversation France",
+      "auteur": "Anne Lehmans, Vincent Liquète",
+      "date": "2016-11-21",
+      "url": "https://theconversation.com/apprendre-a-luniversite-du-xxi-siecle-ou-comment-nourrir-son-elephant-68728",
+      "img": "https://images.unsplash.com/photo-1513258496099-48168024aec0?w=1200&q=80",
+      "lead": "Réflexion sur l'autorégulation des apprentissages dans le supérieur : pourquoi certains étudiants ne se fixent pas d'objectifs et comment travailler la motivation et l'évitement.",
+      "tags": [
+        "motivation",
+        "supérieur",
+        "autorégulation"
+      ]
+    },
+    {
+      "id": "motivation-004",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "L'apprentissage dans l'enseignement supérieur, oui mais pas à n'importe quel prix",
+      "source": "The Conversation France",
+      "auteur": "Pierre-Yves Sanséau",
+      "date": "2025-03-09",
+      "url": "https://theconversation.com/lapprentissage-dans-lenseignement-superieur-oui-mais-pas-a-nimporte-quel-prix-247030",
+      "img": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=1200&q=80",
+      "lead": "Analyse des conditions d'engagement et de motivation des apprentis du supérieur ; rôle des tuteurs académiques et des maîtres d'apprentissage, particulièrement utile pour BTS/BUT en alternance.",
+      "tags": [
+        "motivation",
+        "alternance",
+        "BUT",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "motivation-005",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Les étudiants co-créent l'enseignement et l'apprentissage",
+      "source": "Sydologie",
+      "auteur": "Sydo",
+      "date": "2022-12-12",
+      "url": "https://sydologie.com/2022/12/les-etudiants-co-creent-lenseignement-et-lapprentissage/",
+      "img": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=1200&q=80",
+      "lead": "La co-création étudiant-enseignant comme levier d'autonomie et de motivation intrinsèque : exemples pratiques transférables en BTS et BUT.",
+      "tags": [
+        "motivation",
+        "engagement",
+        "co-création"
+      ]
+    },
+    {
+      "id": "motivation-006",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "dossier",
+      "titre": "Livre blanc : Les mécanismes de la motivation en jeu dans l'apprentissage",
+      "source": "Sydologie",
+      "auteur": "Sydo",
+      "date": "2016-08-01",
+      "url": "https://sydologie.com/2016/08/mecanismes-de-motivation-jeu-lapprentissage/",
+      "img": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=1200&q=80",
+      "lead": "Livre blanc gratuit qui mobilise les théories classiques de la motivation (Deci/Ryan, Bandura, Viau) pour proposer une boîte à outils concrète aux formateurs et enseignants.",
+      "tags": [
+        "motivation",
+        "livre blanc",
+        "autodétermination"
+      ]
+    },
+    {
+      "id": "motivation-007",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Motivation et engagement des étudiants : quelques incidences pédagogiques par Denis Bédard",
+      "source": "Innovation Pédagogique",
+      "auteur": "Denis Bédard (relayé par Innovation pédagogique)",
+      "date": "2021-10-12",
+      "url": "https://www.innovation-pedagogique.fr/article7695.html",
+      "img": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&q=80",
+      "lead": "Synthèse libre de Denis Bédard (Sherbrooke) sur les incidences pédagogiques de la motivation et de l'engagement des étudiants en enseignement supérieur.",
+      "tags": [
+        "motivation",
+        "engagement",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "motivation-008",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Prendre en compte la motivation des étudiants dans la pédagogie avec Rolland Viau",
+      "source": "Innovation Pédagogique",
+      "auteur": "Innovation pédagogique",
+      "date": "2013-04-19",
+      "url": "https://www.innovation-pedagogique.fr/article356.html",
+      "img": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&q=80",
+      "lead": "Présentation du modèle de Rolland Viau (perception de la valeur, de sa compétence et de la contrôlabilité) appliqué à l'enseignement supérieur.",
+      "tags": [
+        "motivation",
+        "Viau",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "motivation-009",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Outils numériques et IA en classe : motivation renforcée ou attention dispersée ?",
+      "source": "Café pédagogique",
+      "auteur": "Anne Andrist",
+      "date": "2025-05-07",
+      "url": "https://www.cafepedagogique.net/2025/05/07/outils-numeriques-et-ia-en-classe-motivation-renforcee-ou-attention-dispersee/",
+      "img": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80",
+      "lead": "Tour d'horizon des effets des outils numériques et de l'IA générative sur la motivation et l'attention en classe : leviers et risques pour les enseignants du supérieur.",
+      "tags": [
+        "motivation",
+        "numérique",
+        "IA",
+        "attention"
+      ]
+    },
+    {
+      "id": "motivation-010",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Le groupe classe est davantage qu'une somme d'élèves spécifiques",
+      "source": "Café pédagogique",
+      "auteur": "Christophe Le Bras",
+      "date": "2025-06-11",
+      "url": "https://www.cafepedagogique.net/2025/06/11/le-groupe-classe-est-davantage-quune-somme-deleves-specifiques/",
+      "img": "https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&q=80",
+      "lead": "Comment le style motivationnel de l'enseignant agit sur l'engagement via les besoins de compétence, d'autonomie et de proximité sociale (théorie de l'autodétermination).",
+      "tags": [
+        "motivation",
+        "autodétermination",
+        "groupe classe"
+      ]
+    },
+    {
+      "id": "posture-001",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Autorité en classe : Un équilibre entre fermeté et bienveillance",
+      "source": "Café pédagogique",
+      "auteur": "Théodora Bezas",
+      "date": "2024-06-05",
+      "url": "https://www.cafepedagogique.net/2024/06/05/autorite-en-classe-un-equilibre-entre-fermete-et-bienveillance/",
+      "img": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=1200&q=80",
+      "lead": "Comment articuler une posture d'autorité et une posture bienveillante en classe : la confiance comme socle, la dissymétrie comme cadre, l'autonomie comme horizon.",
+      "tags": [
+        "posture",
+        "autorité",
+        "bienveillance"
+      ]
+    },
+    {
+      "id": "posture-002",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Bruno Robbes : L'autorité éducative dans la classe",
+      "source": "Café pédagogique",
+      "auteur": "Bruno Robbes (entretien)",
+      "date": "2020-03-06",
+      "url": "https://www.cafepedagogique.net/2020/03/06/bruno-robbes-l-autorite-educative-dans-la-classe/",
+      "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80",
+      "lead": "Entretien fondateur avec Bruno Robbes (CY Cergy) qui démonte le mythe de l'autorité « naturelle » et défend une autorité éducative construite par des savoirs d'action.",
+      "tags": [
+        "posture",
+        "autorité",
+        "Robbes"
+      ]
+    },
+    {
+      "id": "posture-003",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Nicolas Pécheux : L'autorité et le cadre",
+      "source": "Café pédagogique",
+      "auteur": "Nicolas Pécheux",
+      "date": "2020-09-22",
+      "url": "https://www.cafepedagogique.net/2020/09/22/nicolas-pecheux-lautorite-et-le-cadre/",
+      "img": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80",
+      "lead": "Témoignage praticien d'un enseignant sur la pose du cadre en début d'année, l'articulation règles/relation et le travail réflexif sur sa propre posture.",
+      "tags": [
+        "posture",
+        "autorité",
+        "cadre",
+        "praticien"
+      ]
+    },
+    {
+      "id": "posture-004",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "L'autorité éducative dans la classe — Douze situations pour apprendre à l'exercer",
+      "source": "Les Cahiers pédagogiques",
+      "auteur": "Recension de l'ouvrage de Bruno Robbes",
+      "date": "2022-09-15",
+      "url": "https://www.cahiers-pedagogiques.com/l-autorite-educative-dans-la/",
+      "img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&q=80",
+      "lead": "Recension de la nouvelle édition de l'ouvrage de Bruno Robbes : 12 situations concrètes pour exercer une autorité éducative, en sortant du « tout-autoritaire » comme du « tout-bienveillant ».",
+      "tags": [
+        "posture",
+        "autorité",
+        "Robbes",
+        "livre"
+      ]
+    },
+    {
+      "id": "posture-005",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "L'autorité en salle de classe",
+      "source": "The Conversation France",
+      "auteur": "Jean-François Marcel",
+      "date": "2018-04-09",
+      "url": "https://theconversation.com/lautorite-en-salle-de-classe-95309",
+      "img": "https://images.unsplash.com/photo-1588072432836-e10032774350?w=1200&q=80",
+      "lead": "Pourquoi l'autorité de l'enseignant tient d'abord à l'expertise sur la matière et à la légitimité de sa parole, plus qu'à la sanction.",
+      "tags": [
+        "posture",
+        "autorité",
+        "supérieur"
+      ]
+    },
+    {
+      "id": "posture-006",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Quels principes éthiques respecter pour être un bon prof ?",
+      "source": "The Conversation France",
+      "auteur": "Eirick Prairat",
+      "date": "2020-09-30",
+      "url": "https://theconversation.com/quels-principes-ethiques-respecter-pour-etre-un-bon-prof-150559",
+      "img": "https://images.unsplash.com/photo-1543269664-56d93c1b41a6?w=1200&q=80",
+      "lead": "Eirick Prairat décline les vertus du métier (justice, bienveillance, tact) qui fondent une présence éthique de l'enseignant et structurent sa posture quotidienne.",
+      "tags": [
+        "posture",
+        "éthique",
+        "bienveillance"
+      ]
+    },
+    {
+      "id": "posture-007",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Quelle posture enseignante pour une relation éducative apaisée ? Faire face aux situations difficiles",
+      "source": "Les Cahiers pédagogiques",
+      "auteur": "Sébastien Pesce",
+      "date": "2023-11-08",
+      "url": "https://www.cahiers-pedagogiques.com/quelle-posture-enseignante-pour-une-relation-educative-apaisee-faire-face-aux-situations-difficiles/",
+      "img": "https://images.unsplash.com/photo-1543269664-7eef42226a21?w=1200&q=80",
+      "lead": "Pourquoi former aux micro-gestes de la relation pédagogique : étayer la posture des enseignants débutants pour désamorcer les situations conflictuelles.",
+      "tags": [
+        "posture",
+        "relation",
+        "gestes professionnels"
+      ]
+    },
+    {
+      "id": "posture-008",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "article",
+      "titre": "L'agir enseignant : des gestes professionnels ajustés",
+      "source": "Les Cahiers pédagogiques",
+      "auteur": "Recension Dominique Bucheton",
+      "date": "2017-06-15",
+      "url": "https://www.cahiers-pedagogiques.com/l-agir-enseignant-des-gestes/",
+      "img": "https://images.unsplash.com/photo-1571260899304-bbd5e0e0fdb8?w=1200&q=80",
+      "lead": "Présentation du modèle des « gestes et postures » de Dominique Bucheton : contrôle, accompagnement, étayage, lâcher-prise — clés pour réguler son agir en classe.",
+      "tags": [
+        "posture",
+        "Bucheton",
+        "gestes professionnels"
+      ]
+    },
+    {
+      "id": "posture-009",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "fiche",
+      "titre": "Les postures d'étayage et d'apprentissage des élèves selon Dominique Bucheton",
+      "source": "Étreprof",
+      "auteur": "Étreprof",
+      "date": "2023-02-20",
+      "url": "https://etreprof.fr/ressources/4526/les-postures-detayage-et-dapprentissage-des-eleves-selon-dominique-bucheton",
+      "img": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&q=80",
+      "lead": "Fiche praticien Étreprof qui résume les 7 postures d'étayage de Bucheton et propose des entrées concrètes pour les ajuster en classe.",
+      "tags": [
+        "posture",
+        "Bucheton",
+        "praticien"
+      ]
+    },
+    {
+      "id": "posture-010",
+      "theme": "posture",
+      "themes": [
+        "posture"
+      ],
+      "type": "fiche",
+      "titre": "Poser le cadre en classe : première base de la posture enseignante",
+      "source": "Étreprof",
+      "auteur": "Étreprof",
+      "date": "2022-09-05",
+      "url": "https://etreprof.fr/ressources/4198/poser-le-cadre-en-classe-premiere-base-de-la-posture-enseignante",
+      "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80",
+      "lead": "Ressource praticien qui détaille comment associer les élèves à la construction du cadre, pour transformer l'autorité subie en autorité reconnue.",
+      "tags": [
+        "posture",
+        "cadre",
+        "praticien",
+        "autorité"
+      ]
+    }
+  ]
 }
