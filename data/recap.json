@@ -1,26 +1,45 @@
 {
-  "semaine": 25,
-  "annee": 2026,
-  "titre": "Trois ressources de référence pour repenser sa pédagogie en 2026.",
-  "lead": "Le Récap hebdo arrive chaque dimanche soir. En attendant, trois portes d'entrée vérifiables sur la pédagogie du supérieur tertiaire.",
+  "edition": "2026-W25",
+  "date_publication": "2026-06-22",
+  "titre": "Récap Pédagogie — semaine du 22 juin 2026",
+  "intro": "Trois lectures choisies pour cette semaine — une sur l'IA en classe, une sur l'évaluation, une sur l'inclusion. Du fond, et des sources vérifiables.",
+  "pdf": "/static/recaps/2026-W25.pdf",
   "items": [
     {
-      "type": "etude",
-      "titre": "Cnesco — publications sur les enjeux pédagogiques",
-      "lead": "Le Centre national d'étude des systèmes scolaires publie des rapports indépendants sur les pratiques pédagogiques. Référence francophone.",
-      "url": "https://www.cnesco.fr/publications/"
+      "theme": "ia-classe",
+      "theme_label": "IA en classe",
+      "titre": "Enseignants et IA, le grand écart ?",
+      "source": "Café pédagogique",
+      "auteur": "Lilia Ben Hamouda",
+      "date": "2026-02-06",
+      "url": "https://www.cafepedagogique.net/2026/02/06/enseignants-et-ia-le-grand-ecart/",
+      "img": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&q=80",
+      "lead": "Une enquête met en lumière le fossé entre l'enthousiasme institutionnel pour l'IA et la prudence (voire le scepticisme) de nombreux enseignants. La question : comment combler ce grand écart ?",
+      "pourquoi": "Parce que la posture du prof face à ChatGPT n'est pas une affaire technique — c'est un débat professionnel collectif. Cet article éclaire les tensions vécues sur le terrain."
     },
     {
-      "type": "cadre",
-      "titre": "Éduscol — ressources d'enseignement",
-      "lead": "Le portail officiel du ministère de l'Éducation, ressources pédagogiques par discipline et par niveau, mises à jour régulièrement.",
-      "url": "https://www.eduscol.education.fr/"
+      "theme": "evaluation",
+      "theme_label": "Évaluation",
+      "titre": "À l'École de l'évaluation-exclusion",
+      "source": "Café pédagogique",
+      "auteur": "Tribune",
+      "date": "2026-01-12",
+      "url": "https://www.cafepedagogique.net/2026/01/12/a-lecole-de-levaluation-exclusion/",
+      "img": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=800&q=80",
+      "lead": "Une tribune qui interroge frontalement la fonction de tri et d'exclusion produite par certaines pratiques d'évaluation sommative. Et propose des alternatives concrètes.",
+      "pourquoi": "Parce que repenser l'évaluation, ce n'est pas l'adoucir — c'est lui rendre sa fonction d'apprentissage. Lecture salutaire avant tout conseil de classe."
     },
     {
-      "type": "veille",
-      "titre": "IGÉSR — rapports de l'Inspection générale",
-      "lead": "L'IGÉSR publie des rapports thématiques sur l'enseignement supérieur. Indispensable pour comprendre où va le système.",
-      "url": "https://www.education.gouv.fr/l-inspection-generale-de-l-education-du-sport-et-de-la-recherche-igesr-7077"
+      "theme": "inclusion",
+      "theme_label": "Inclusion",
+      "titre": "MOOC Troubles du Neuro-Développement : Autisme, Dys, TDAH, TDI",
+      "source": "INSEI (ex-INSHEA)",
+      "auteur": "INSEI",
+      "date": "2025-11-17",
+      "url": "https://www.insei.fr/ressources/lancement-du-mooc-troubles-du-neuro-developpement-autisme-dys-tdah-tdi-0",
+      "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&q=80",
+      "lead": "Un MOOC gratuit et complet pour comprendre les troubles du neuro-développement et adapter sa pédagogie sans dénaturer le contenu d'enseignement.",
+      "pourquoi": "Parce que l'inclusion n'est pas une bonne intention, c'est un savoir-faire. Ce MOOC est l'une des meilleures portes d'entrée du sujet en français."
     }
   ]
 }
