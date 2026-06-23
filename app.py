@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Le Blog IA — par Eduservices. Flask backend (SPA hash routing côté front)."""
+"""Apprendre & transmettre avec les outils numériques — Flask backend (SPA hash routing)."""
 import json
 from pathlib import Path
 from flask import Flask, render_template, jsonify, send_from_directory, abort
@@ -11,9 +11,7 @@ app = Flask(__name__)
 
 def _load(name):
     p = DATA_DIR / name
-    if not p.exists():
-        return {}
-    return json.loads(p.read_text(encoding="utf-8"))
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 @app.route("/")
 def home():
@@ -29,43 +27,46 @@ def robots():
 
 @app.route("/api/bootstrap")
 def api_bootstrap():
-    """Single payload pour le front : édition, thèmes, dernières actus, récap, formations."""
     return jsonify({
         "edition": _load("edition.json"),
         "themes": _load("themes.json"),
-        "blog": _load("blog.json"),
+        "veille": _load("blog.json"),     # renommé Blog → Veille
         "recap": _load("recap.json"),
         "pedagogie": _load("pedagogie.json"),
     })
 
-@app.route("/api/formation/<niveau>")
-def api_formation(niveau):
-    if niveau not in ("n1", "n2"):
-        abort(404)
-    pedagogie = _load("pedagogie.json")
-    return jsonify(pedagogie.get(niveau, {}))
-
-@app.route("/api/formation/<niveau>/module/<int:num>")
-def api_module(niveau, num):
-    pedagogie = _load("pedagogie.json")
-    modules = pedagogie.get(niveau, {}).get("modules", [])
-    for m in modules:
+@app.route("/api/module/<int:num>")
+def api_module(num):
+    peda = _load("pedagogie.json")
+    for m in peda.get("modules", []):
         if m.get("num") == num:
-            # Add linked blog posts (matching by tags)
-            blog = _load("blog.json").get("articles", [])
-            module_tags = set(m.get("tags", []))
-            m = dict(m)
-            m["linked_actus"] = [
-                a for a in blog
-                if module_tags & set(a.get("tags", []))
-            ][:3]
             return jsonify(m)
     abort(404)
 
-@app.route("/api/blog/<theme>")
-def api_blog_theme(theme):
-    blog = _load("blog.json")
-    articles = [a for a in blog.get("articles", []) if theme in a.get("themes", [])]
+@app.route("/api/module/<int:num>/partie/<int:p>")
+def api_partie(num, p):
+    peda = _load("pedagogie.json")
+    for m in peda.get("modules", []):
+        if m.get("num") != num:
+            continue
+        for part in m.get("parties", []):
+            if part.get("num") == p:
+                # Linked actus depuis la veille
+                tags = set(m.get("tags", []))
+                veille = _load("blog.json").get("articles", [])
+                linked = [a for a in veille if tags & set(a.get("tags", []))][:3]
+                out = dict(part)
+                out["linked_actus"] = linked
+                out["module_title"] = m.get("title")
+                out["module_num"] = num
+                return jsonify(out)
+        abort(404)
+    abort(404)
+
+@app.route("/api/veille/<theme>")
+def api_veille_theme(theme):
+    veille = _load("blog.json")
+    articles = [a for a in veille.get("articles", []) if theme in a.get("themes", [])]
     return jsonify({"theme": theme, "articles": articles})
 
 if __name__ == "__main__":
