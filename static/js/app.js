@@ -40,11 +40,17 @@ function renderHome() {
   const lastArticles = (veille.articles || []).slice(0, 6);
 
   APP.innerHTML = `
-    <section class="home-hero">
-      <div class="home-hero-inner">
+    <div class="hero-video-wrap">
+      <video class="hero-video" src="/static/videos/hero-home.mp4" autoplay muted loop playsinline poster=""></video>
+      <div class="hero-video-overlay"></div>
+      <div class="hero-video-caption">
         <span class="home-eyebrow">Parcours certifiant interne · Eduservices</span>
         <h1>Apprendre &amp; transmettre<br><span class="hero-accent">avec les outils numériques</span></h1>
-        <p class="home-lead">Le support en ligne du parcours de formation des formateurs. Vous y retrouvez les contenus des modules, les ressources de veille, les exemples concrets et les références pour préparer, animer et certifier.</p>
+      </div>
+    </div>
+    <section class="home-hero">
+      <div class="home-hero-inner">
+        <p class="home-lead" style="font-size:20px;margin-top:6px;">Le support en ligne du parcours de formation des formateurs. Vous y retrouvez les contenus des modules, la veille spécialisée sur le numérique éducatif, le multimodal et l'IA, ainsi que les références pour préparer, animer et certifier.</p>
         <div class="home-cta-row">
           <a class="cta-primary" href="#module/2">Voir le Module 2</a>
           <a class="cta-secondary" href="#veille">Explorer la veille</a>
@@ -232,10 +238,9 @@ async function renderPartie(num, p) {
 }
 
 function renderVignette(v, idx) {
-  const t = v.type || 'approfondir';
-  const isVideo = t === 'video';
-  const isExternal = isVideo && v.url;
-  const isModal = v.modal_id != null;
+  const t = v.type || 'article';
+  const isExternal = !!v.url;
+  const isModal = !isExternal && v.modal_id != null;
 
   const tag = isExternal
     ? `<a class="vignette vignette-${t}" href="${esc(v.url)}" target="_blank" rel="noopener" data-vignette="${idx}">`
@@ -245,13 +250,13 @@ function renderVignette(v, idx) {
   const closetag = isExternal ? '</a>' : isModal ? '</button>' : '</div>';
 
   let body;
-  if (isVideo && v.thumb) {
+  if (t === 'video' && v.thumb) {
     body = `<div class="vignette-thumb"><img src="${esc(v.thumb)}" alt=""><span class="vignette-play">▶</span></div>
             <div class="vignette-body">
-              <div class="vignette-label"><span class="vignette-icon">${v.icon||''}</span>${esc(v.label||'')}</div>
+              <div class="vignette-label"><span class="vignette-icon">${v.icon||'▶'}</span>${esc(v.label||'Vidéo')}</div>
               <div class="vignette-title">${esc(v.titre)}</div>
               <p class="vignette-lead">${esc(v.lead)}</p>
-              ${v.source ? `<div class="vignette-meta">${esc(v.source)}${v.duree?' · '+esc(v.duree):''}</div>` : ''}
+              ${v.source ? `<div class="vignette-meta">${esc(v.source)}</div>` : ''}
             </div>`;
   } else if (t === 'chiffre') {
     body = `<div class="vignette-body">
@@ -267,12 +272,13 @@ function renderVignette(v, idx) {
               ${v.source ? `<div class="vignette-meta">— ${esc(v.source)}</div>` : ''}
             </div>`;
   } else {
+    // article, podcast, dossier, rapport, etude, approfondir
     body = `<div class="vignette-body">
-              <div class="vignette-label"><span class="vignette-icon">${v.icon||'💡'}</span>${esc(v.label||'')}</div>
+              <div class="vignette-label"><span class="vignette-icon">${v.icon||'📄'}</span>${esc(v.label||'')}</div>
               <div class="vignette-title">${esc(v.titre)}</div>
               <p class="vignette-lead">${esc(v.lead)}</p>
-              ${isModal ? `<div class="vignette-cta">Voir le détail →</div>` : ''}
-              ${isExternal && !v.thumb ? `<div class="vignette-cta">Ouvrir la vidéo ↗</div>` : ''}
+              ${v.source ? `<div class="vignette-meta">${esc(v.source)}${v.duree ? ' · ' + esc(v.duree) : ''}</div>` : ''}
+              ${isExternal ? `<div class="vignette-cta">Ouvrir ↗</div>` : isModal ? `<div class="vignette-cta">Voir le détail →</div>` : ''}
             </div>`;
   }
   return tag + body + closetag;
