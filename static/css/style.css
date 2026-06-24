@@ -311,3 +311,40 @@ button.vignette{appearance:none;font:inherit}
 .vignette-podcast:hover{border-color:var(--lilac)}
 .vignette-article .vignette-label{color:var(--cyan)}
 .vignette-article:hover{border-color:var(--cyan)}
+
+/* ============ INSET-IMG INLINE-RIGHT (Phase 8 : photo flottée à côté du h3) ============ */
+.content .inset-img.inline-right{
+  float:right;
+  width:42%;
+  max-width:320px;
+  margin:6px 0 18px 26px;
+  clear:right;
+}
+.content .inset-img.inline-right img{
+  aspect-ratio:4/3;
+  width:100%;
+  height:auto;
+}
+.content .inset-img.inline-right figcaption{
+  font-size:12px;
+  line-height:1.4;
+}
+/* Bannière (wide) : pleine largeur de la zone de contenu */
+.content .inset-img.wide{
+  max-width:780px;
+  margin:32px auto;
+}
+.content .inset-img.wide img{
+  aspect-ratio:21/9;
+}
+/* Anti-overflow : tout h2.chap suivant un float doit le clear */
+.content h2.chap{ clear:both; }
+@media (max-width:768px){
+  .content .inset-img.inline-right{
+    float:none;
+    width:100%;
+    max-width:none;
+    margin:24px auto;
+  }
+  .content .inset-img.inline-right img{ aspect-ratio:16/10; }
+}
