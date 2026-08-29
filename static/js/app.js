@@ -52,8 +52,8 @@ function renderHome() {
       <div class="home-hero-inner">
         <p class="home-lead" style="font-size:20px;margin-top:6px;">Le support en ligne du parcours de formation des formateurs. Vous y retrouvez les contenus des modules, la veille spécialisée sur le numérique éducatif, le multimodal et l'IA, ainsi que les références pour préparer, animer et certifier.</p>
         <div class="home-cta-row">
-          <a class="cta-primary" href="#module/2">Voir le Module 2</a>
-          <a class="cta-secondary" href="#veille">Explorer la veille</a>
+          <a class="cta-primary" href="#module/1">Voir le Module 1</a>
+          <a class="cta-secondary" href="#module/2">Voir le Module 2</a>
         </div>
       </div>
     </section>
