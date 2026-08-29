@@ -14,6 +14,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<script>
+(function(){try{var t=localStorage.getItem('tn-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();
+</script>
 </head>
 <body>
 
@@ -33,6 +36,7 @@
       <a href="#veille">Veille</a>
       <a href="#recap">Récap</a>
       <a href="#bibliotheque">Bibliothèque</a>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Basculer entre le thème clair et sombre" title="Thème clair / sombre">☀</button>
     </div>
   </div>
 </nav>
@@ -44,5 +48,20 @@
 </main>
 
 <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+<script>
+(function(){
+  var root=document.documentElement, btn=document.getElementById('themeToggle');
+  function label(){ var l=root.getAttribute('data-theme')==='light';
+    if(btn){ btn.textContent = l ? '☾' : '☀';
+      btn.setAttribute('aria-label', l ? 'Passer au thème sombre' : 'Passer au thème clair'); } }
+  label();
+  if(btn){ btn.addEventListener('click', function(){
+    var l = root.getAttribute('data-theme')==='light';
+    if(l){ root.removeAttribute('data-theme'); try{localStorage.setItem('tn-theme','dark');}catch(e){} }
+    else { root.setAttribute('data-theme','light'); try{localStorage.setItem('tn-theme','light');}catch(e){} }
+    label();
+  }); }
+})();
+</script>
 </body>
 </html>
