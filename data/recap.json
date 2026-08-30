@@ -1,8 +1,8 @@
 {
   "edition": "2026-W35",
-  "date_publication": "2026-08-30",
-  "titre": "Récap Pédagogie — semaine du 30 août 2026",
-  "intro": "Rentrée : trois lectures pour cadrer la posture face à l'IA, un levier pour désamorcer les tensions de classe, et un guide concret pour bâtir un cours hybride. Sources vérifiées.",
+  "date_publication": "2026-08-24",
+  "titre": "Récap Pédagogie — semaine du 24 août 2026",
+  "intro": "Semaine de rentrée : ce qui fonde l'autorité du formateur quand l'IA sait tout, comment transformer une règle imposée en cadre accepté, et comment répartir ce qui se travaille seul et ce qui se joue en présence.",
   "pdf": "/static/recaps/2026-W35.pdf",
   "items": [
     {
@@ -15,7 +15,7 @@
       "url": "https://theconversation.com/quest-ce-quun-bon-prof-a-lere-de-lia-288129",
       "img": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&q=80",
       "lead": "Quand l'explication et la synthèse deviennent instantanément accessibles, l'identité professionnelle bâtie sur la maîtrise du contenu vacille. L'article examine ce qui fait alors la valeur ajoutée du formateur et où déplacer son expertise. Un bon support de discussion en ouverture de parcours certifiant.",
-      "pourquoi": "Parce que la question du rôle du prof face à l'IA n'est pas résolue — cet article aide à situer sa propre posture."
+      "pourquoi": "En première semaine, la question arrive toujours : à quoi je sers si la machine explique mieux ? Cet article donne de quoi y répondre autrement que par la défensive."
     },
     {
       "theme": "conflits",
@@ -27,11 +27,11 @@
       "url": "https://theconversation.com/telephone-au-lycee-comment-transformer-une-interdiction-en-education-290377",
       "img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&q=80",
       "lead": "Poser une règle ne suffit pas à la faire tenir : l'article montre comment une interdiction imposée se retourne en bras de fer, et ce qu'il faut y ajouter pour qu'elle devienne un cadre accepté. Transposable à toute règle de groupe qu'un formateur doit faire respecter en salle.",
-      "pourquoi": "Parce que rien ne se transmet dans un climat tendu. Cet article donne des leviers concrets pour intervenir tôt."
+      "pourquoi": "Le cadre se pose les premiers jours ou ne se pose pas. L'article rappelle qu'une règle annoncée sans travail d'explicitation devient un rapport de force dès la troisième séance."
     },
     {
       "theme": "asynchrone",
-      "theme_label": "Enseignement asynchrone",
+      "theme_label": "Asynchrone",
       "titre": "Développer un cours hybride : ce qu'on confie à l'autonomie, ce qu'on garde en présence",
       "source": "Université Laval",
       "auteur": "Service de soutien à l'enseignement, Université Laval",
@@ -39,7 +39,7 @@
       "url": "https://www.enseigner.ulaval.ca/pedagogie/developper-un-cours-hybride",
       "img": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=1200&q=80",
       "lead": "Une fiche méthodologique qui pose la bonne question de départ : quels contenus se prêtent à un travail autonome, et comment les activités asynchrones préparent la séance en présence. Elle propose une démarche de scénarisation séance par séance, ancrée sur les objectifs d'apprentissage.",
-      "pourquoi": "Parce que l'hybride se règle en amont — cet article aide à décider ce qui reste en présentiel."
+      "pourquoi": "Le moment de l'année où l'on décide de la scénarisation. Cette fiche fournit le critère de tri : ce qui se confie à l'autonomie, ce qui exige la présence."
     }
   ]
 }

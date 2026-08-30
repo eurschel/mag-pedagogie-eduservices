@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "posture-012",
+      "theme": "posture",
+      "themes": [
+        "posture",
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "Qu'est-ce qu'un « bon » prof à l'ère de l'IA ?",
+      "source": "The Conversation France",
+      "auteur": "Emmanuel Burguete et Michael Zeyringer, Université de Haute-Alsace",
+      "date": "2026-08-28",
+      "url": "https://theconversation.com/quest-ce-quun-bon-prof-a-lere-de-lia-288129",
+      "img": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&q=80",
+      "lead": "Quand l'explication et la synthèse deviennent instantanément accessibles, l'identité professionnelle bâtie sur la maîtrise du contenu vacille. L'article examine ce qui fait alors la valeur ajoutée du formateur et où déplacer son expertise. Un bon support de discussion en ouverture de parcours certifiant.",
+      "tags": [
+        "posture",
+        "ia",
+        "identite-professionnelle",
+        "expertise"
+      ]
+    },
+    {
       "id": "conflits-012",
       "theme": "conflits",
       "themes": [
@@ -23,25 +45,25 @@
       ]
     },
     {
-      "id": "posture-012",
+      "id": "posture-014",
       "theme": "posture",
       "themes": [
         "posture",
-        "ia-classe"
+        "conflits"
       ],
       "type": "article",
-      "titre": "Qu'est-ce qu'un « bon » prof à l'ère de l'IA ?",
-      "source": "The Conversation France",
-      "auteur": "Emmanuel Burguete et Michael Zeyringer, Université de Haute-Alsace",
-      "date": "2026-08-28",
-      "url": "https://theconversation.com/quest-ce-quun-bon-prof-a-lere-de-lia-288129",
-      "img": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=1200&q=80",
-      "lead": "Quand l'explication et la synthèse deviennent instantanément accessibles, l'identité professionnelle bâtie sur la maîtrise du contenu vacille. L'article examine ce qui fait alors la valeur ajoutée du formateur et où déplacer son expertise. Un bon support de discussion en ouverture de parcours certifiant.",
+      "titre": "Rentrée 2026 : « Plus vite je connais mes élèves, plus vite j’adapte ma pédagogie et mon accompagnement »",
+      "source": "Café pédagogique",
+      "auteur": "Emeline Peheau, propos recueillis par Djéhanne Gani",
+      "date": "2026-08-25",
+      "url": "https://www.cafepedagogique.net/2026/08/25/rentree-2026-plus-vite-je-connais-mes-eleves-plus-vite-jadapte-ma-pedagogie-et-mon-accompagnement/",
+      "img": "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?w=1200&q=80",
+      "lead": "Le récit détaillé d’une première séance conçue comme un dispositif d’observation : bingo, escape game, prise de notes sur qui parle, qui s’efface, qui contourne la lecture. Une méthode transposable telle quelle à une première demi-journée avec un groupe inconnu.",
       "tags": [
-        "posture",
-        "ia",
-        "identite-professionnelle",
-        "expertise"
+        "rentree",
+        "premiere-seance",
+        "observation",
+        "cohesion"
       ]
     },
     {
@@ -89,6 +111,28 @@
       ]
     },
     {
+      "id": "inclusion-013",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion",
+        "ia-classe"
+      ],
+      "type": "article",
+      "titre": "L’IA au secours des enseignants débordés ? Oui, mais à conditions",
+      "source": "The Conversation France",
+      "auteur": "Alice Fomen, professeure adjointe en enseignement et apprentissage",
+      "date": "2026-06-09",
+      "url": "https://theconversation.com/lia-au-secours-des-enseignants-debordes-oui-mais-a-conditions-282120",
+      "img": "https://images.unsplash.com/photo-1573166364524-d9dbfd8bbf83?w=1200&q=80",
+      "lead": "L’injonction à différencier arrive rarement accompagnée du temps pour le faire. L’article examine ce que l’IA générative peut réellement absorber dans ce travail d’adaptation — et les conditions sans lesquelles elle ajoute une charge au lieu de l’alléger. Utile avant d’équiper une équipe d’outils.",
+      "tags": [
+        "inclusion",
+        "ia",
+        "differenciation",
+        "charge-de-travail"
+      ]
+    },
+    {
       "id": "posture-013",
       "theme": "posture",
       "themes": [
@@ -131,6 +175,50 @@
       ]
     },
     {
+      "id": "motivation-013",
+      "theme": "motivation",
+      "themes": [
+        "motivation",
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "Les pédagogies actives au-delà du label",
+      "source": "Innovation Pédagogique",
+      "auteur": "Rochane Kherbouche",
+      "date": "2026-05-04",
+      "url": "https://www.innovation-pedagogique.fr/article25856.html",
+      "img": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=1200&q=80",
+      "lead": "Une séance bien reçue n’est pas une séance où l’on apprend : l’auteur oppose l’animation réussie au retour d’information qui remonte de l’apprenant, en s’appuyant sur les méta-analyses de Hattie. Un antidote direct au « j’ai fait de l’actif » qui ne produit rien.",
+      "tags": [
+        "pedagogies-actives",
+        "feedback",
+        "Hattie",
+        "engagement"
+      ]
+    },
+    {
+      "id": "inclusion-014",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion",
+        "posture"
+      ],
+      "type": "article",
+      "titre": "L’inclusion à l’épreuve du réel",
+      "source": "Café pédagogique",
+      "auteur": "Gabriel Perez, professeur de philosophie et psychologue du travail",
+      "date": "2026-04-07",
+      "url": "https://www.cafepedagogique.net/2026/04/07/linclusion-a-lepreuve-du-reel/",
+      "img": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?w=1200&q=80",
+      "lead": "L’écart entre l’inclusion prescrite (dossiers, plans, sigles) et l’inclusion réelle en salle, lu avec les outils de la clinique du travail. L’exemple final — un tiers-temps supprimé au profit de pauses toutes les dix minutes — montre qu’ajuster vaut mieux qu’appliquer.",
+      "tags": [
+        "inclusion",
+        "travail-reel",
+        "amenagements",
+        "clinique-du-travail"
+      ]
+    },
+    {
       "id": "ia-classe-011",
       "theme": "ia-classe",
       "themes": [
@@ -149,6 +237,28 @@
         "evaluation",
         "recherche",
         "redaction"
+      ]
+    },
+    {
+      "id": "ia-classe-014",
+      "theme": "ia-classe",
+      "themes": [
+        "ia-classe",
+        "posture"
+      ],
+      "type": "article",
+      "titre": "L’IA au service des pratiques pédagogiques",
+      "source": "Sydologie",
+      "auteur": "Sydologie",
+      "date": "2026-03-16",
+      "url": "https://sydologie.com/2026/03/lia-au-service-des-pratiques-pedagogiques/",
+      "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80",
+      "lead": "Chapitre d’un livre blanc qui répond à la question posée en formation : concrètement, qu’est-ce que l’IA change dans mes pratiques ? Il trie ce qui relève de l’outillage, ce qui touche à la conception, et ce qui ne bouge pas. Bon support pour cadrer un atelier d’équipe.",
+      "tags": [
+        "ia",
+        "pratiques",
+        "conception",
+        "formation-de-formateurs"
       ]
     },
     {
@@ -173,26 +283,6 @@
       ]
     },
     {
-      "id": "motivation-012",
-      "theme": "motivation",
-      "themes": [
-        "motivation"
-      ],
-      "type": "etude",
-      "titre": "La solitude des étudiants décrocheurs",
-      "source": "Innovation Pédagogique",
-      "auteur": "Innovation Pédagogique",
-      "date": "2026-02-18",
-      "url": "https://www.innovation-pedagogique.fr/article24987.html",
-      "img": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=1200&q=80",
-      "lead": "Quelques mois de formation et déjà face à l'échec : ce que vivent les étudiants qui décrochent, et les signaux que le formateur peut repérer tôt.",
-      "tags": [
-        "motivation",
-        "decrochage",
-        "accompagnement"
-      ]
-    },
-    {
       "id": "ia-classe-007",
       "theme": "ia-classe",
       "themes": [
@@ -212,6 +302,70 @@
         "formation-enseignants",
         "chatgpt",
         "cafepedagogique"
+      ]
+    },
+    {
+      "id": "motivation-012",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "etude",
+      "titre": "La solitude des étudiants décrocheurs",
+      "source": "Innovation Pédagogique",
+      "auteur": "Innovation Pédagogique",
+      "date": "2026-02-02",
+      "url": "https://www.innovation-pedagogique.fr/article24987.html",
+      "img": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=1200&q=80",
+      "lead": "Quelques mois de formation et déjà face à l'échec : ce que vivent les étudiants qui décrochent, et les signaux que le formateur peut repérer tôt.",
+      "tags": [
+        "motivation",
+        "decrochage",
+        "accompagnement"
+      ]
+    },
+    {
+      "id": "motivation-014",
+      "theme": "motivation",
+      "themes": [
+        "motivation",
+        "posture"
+      ],
+      "type": "article",
+      "titre": "Les biais cognitifs #12 – L’effet Rosenthal",
+      "source": "Sydologie",
+      "auteur": "Sydologie",
+      "date": "2026-01-26",
+      "url": "https://sydologie.com/2026/01/les-biais-cognitifs-12-effet-rosenthal/",
+      "img": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=1200&q=80",
+      "lead": "Ce que le formateur attend d’un groupe finit par arriver : l’article reprend l’étude de Rosenthal et Jacobson et en tire les conséquences pratiques pour la constitution des groupes et le regard porté sur les apprenants faibles. Court, sourcé, directement transposable.",
+      "tags": [
+        "Pygmalion",
+        "attentes",
+        "biais-cognitifs",
+        "motivation"
+      ]
+    },
+    {
+      "id": "evaluation-014",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation",
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Apprendre de ses erreurs : comment former les étudiants à rebondir après un échec",
+      "source": "The Conversation France",
+      "auteur": "Odile Paulus",
+      "date": "2026-01-19",
+      "url": "https://theconversation.com/apprendre-de-ses-erreurs-comment-former-les-etudiants-a-rebondir-apres-un-echec-271552",
+      "img": "https://images.unsplash.com/photo-1593376853899-fbb47a057fa0?w=1200&q=80",
+      "lead": "Comment faire de l’erreur une étape de travail plutôt qu’un verdict, y compris dans un cursus où les notes comptent. L’article détaille les conditions à installer pour que l’échec devienne exploitable par l’étudiant, à partir de la pédagogie Team Academy.",
+      "tags": [
+        "erreur",
+        "echec",
+        "feedback",
+        "evaluation-formative"
       ]
     },
     {
@@ -258,6 +412,27 @@
       ]
     },
     {
+      "id": "evaluation-013",
+      "theme": "evaluation",
+      "themes": [
+        "evaluation"
+      ],
+      "type": "article",
+      "titre": "L'évaluation scolaire : ce que la recherche dit des mythes qui l'entourent",
+      "source": "Les Cahiers pédagogiques",
+      "auteur": "Jean-Michel Zakhartchouk",
+      "date": "2026-01-09",
+      "url": "https://www.cahiers-pedagogiques.com/levaluation-scolaire/",
+      "img": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1200&q=80",
+      "lead": "Note de lecture de l'ouvrage de Raphaël Pasquini, qui démonte une à une les idées reçues sur la notation et l'évaluation certificative. Un point d'appui court et argumenté pour répondre aux objections classiques quand on propose à une équipe de sortir de la note.",
+      "tags": [
+        "evaluation",
+        "notation",
+        "mythes",
+        "recherche"
+      ]
+    },
+    {
       "id": "conflits-013",
       "theme": "conflits",
       "themes": [
@@ -277,27 +452,6 @@
         "espace-classe",
         "proxemie",
         "gestes-professionnels"
-      ]
-    },
-    {
-      "id": "evaluation-013",
-      "theme": "evaluation",
-      "themes": [
-        "evaluation"
-      ],
-      "type": "article",
-      "titre": "L'évaluation scolaire : ce que la recherche dit des mythes qui l'entourent",
-      "source": "Les Cahiers pédagogiques",
-      "auteur": "Jean-Michel Zakhartchouk",
-      "date": "2026-01-09",
-      "url": "https://www.cahiers-pedagogiques.com/levaluation-scolaire/",
-      "img": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1200&q=80",
-      "lead": "Note de lecture de l'ouvrage de Raphaël Pasquini, qui démonte une à une les idées reçues sur la notation et l'évaluation certificative. Un point d'appui court et argumenté pour répondre aux objections classiques quand on propose à une équipe de sortir de la note.",
-      "tags": [
-        "evaluation",
-        "notation",
-        "mythes",
-        "recherche"
       ]
     },
     {
@@ -344,28 +498,6 @@
       ]
     },
     {
-      "id": "inclusion-001",
-      "theme": "inclusion",
-      "themes": [
-        "inclusion"
-      ],
-      "type": "dossier",
-      "titre": "Lancement du Mooc \"Troubles du Neuro-Développement : Autisme, Dys, TDAH, TDI\"",
-      "source": "INSEI",
-      "auteur": "INSEI / École des TND",
-      "date": "2025-11-17",
-      "url": "https://www.insei.fr/ressources/lancement-du-mooc-troubles-du-neuro-developpement-autisme-dys-tdah-tdi-0",
-      "img": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=1200&q=80",
-      "lead": "L'INSEI annonce la mise en ligne sur FUN d'un MOOC en 7 modules pour mieux comprendre les TND (autisme, dys, TDAH, TDI) chez l'enfant et l'adolescent et adapter les pratiques pédagogiques au quotidien.",
-      "tags": [
-        "inclusion",
-        "neurodiversité",
-        "MOOC",
-        "TND",
-        "TDAH"
-      ]
-    },
-    {
       "id": "inclusion-003",
       "theme": "inclusion",
       "themes": [
@@ -385,6 +517,28 @@
         "TND",
         "autisme",
         "dys"
+      ]
+    },
+    {
+      "id": "inclusion-001",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "dossier",
+      "titre": "Lancement du Mooc \"Troubles du Neuro-Développement : Autisme, Dys, TDAH, TDI\"",
+      "source": "INSEI",
+      "auteur": "INSEI / École des TND",
+      "date": "2025-11-17",
+      "url": "https://www.insei.fr/ressources/lancement-du-mooc-troubles-du-neuro-developpement-autisme-dys-tdah-tdi-0",
+      "img": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=1200&q=80",
+      "lead": "L'INSEI annonce la mise en ligne sur FUN d'un MOOC en 7 modules pour mieux comprendre les TND (autisme, dys, TDAH, TDI) chez l'enfant et l'adolescent et adapter les pratiques pédagogiques au quotidien.",
+      "tags": [
+        "inclusion",
+        "neurodiversité",
+        "MOOC",
+        "TND",
+        "TDAH"
       ]
     },
     {
@@ -537,6 +691,27 @@
       ]
     },
     {
+      "id": "inclusion-006",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "dossier",
+      "titre": "Atypie-Friendly — Programme national pour une université inclusive",
+      "source": "Atypie-Friendly",
+      "auteur": "Programme Atypie-Friendly",
+      "date": "2025-09-01",
+      "url": "https://atypie-friendly.fr/",
+      "img": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+      "lead": "Programme national qui rassemble plus de la moitié des universités françaises pour construire un enseignement supérieur inclusif des étudiants présentant un TND (autisme, TDAH, dys).",
+      "tags": [
+        "inclusion",
+        "université",
+        "neurodiversité",
+        "TND"
+      ]
+    },
+    {
       "id": "ia-classe-008",
       "theme": "ia-classe",
       "themes": [
@@ -557,27 +732,6 @@
         "rupture-continuite",
         "ethique",
         "posture-enseignante"
-      ]
-    },
-    {
-      "id": "inclusion-006",
-      "theme": "inclusion",
-      "themes": [
-        "inclusion"
-      ],
-      "type": "dossier",
-      "titre": "Atypie-Friendly — Programme national pour une université inclusive",
-      "source": "Atypie-Friendly",
-      "auteur": "Programme Atypie-Friendly",
-      "date": "2025-09-01",
-      "url": "https://atypie-friendly.fr/",
-      "img": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
-      "lead": "Programme national qui rassemble plus de la moitié des universités françaises pour construire un enseignement supérieur inclusif des étudiants présentant un TND (autisme, TDAH, dys).",
-      "tags": [
-        "inclusion",
-        "université",
-        "neurodiversité",
-        "TND"
       ]
     },
     {
@@ -708,27 +862,6 @@
       ]
     },
     {
-      "id": "inclusion-005",
-      "theme": "inclusion",
-      "themes": [
-        "inclusion"
-      ],
-      "type": "article",
-      "titre": "L'école inclusive à bout de souffle",
-      "source": "Café pédagogique",
-      "auteur": "Djéhanne Gani",
-      "date": "2025-05-07",
-      "url": "https://www.cafepedagogique.net/2025/05/07/lecole-inclusive-a-bout-de-souffle/",
-      "img": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&q=80",
-      "lead": "Reportage critique sur les limites de l'école inclusive française : manque de moyens, fatigue des AESH et des enseignants, dispositifs PAS encore embryonnaires.",
-      "tags": [
-        "inclusion",
-        "AESH",
-        "handicap",
-        "PAS"
-      ]
-    },
-    {
       "id": "motivation-009",
       "theme": "motivation",
       "themes": [
@@ -747,6 +880,27 @@
         "numérique",
         "IA",
         "attention"
+      ]
+    },
+    {
+      "id": "inclusion-005",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "article",
+      "titre": "L'école inclusive à bout de souffle",
+      "source": "Café pédagogique",
+      "auteur": "Djéhanne Gani",
+      "date": "2025-05-07",
+      "url": "https://www.cafepedagogique.net/2025/05/07/lecole-inclusive-a-bout-de-souffle/",
+      "img": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=1200&q=80",
+      "lead": "Reportage critique sur les limites de l'école inclusive française : manque de moyens, fatigue des AESH et des enseignants, dispositifs PAS encore embryonnaires.",
+      "tags": [
+        "inclusion",
+        "AESH",
+        "handicap",
+        "PAS"
       ]
     },
     {
@@ -919,27 +1073,6 @@
       ]
     },
     {
-      "id": "inclusion-002",
-      "theme": "inclusion",
-      "themes": [
-        "inclusion"
-      ],
-      "type": "fiche",
-      "titre": "CP5 - Le TDAH à l'école : le comprendre et savoir proposer un accompagnement pédagogique",
-      "source": "INSEI",
-      "auteur": "INSEI",
-      "date": "2024-09-01",
-      "url": "https://www.insei.fr/formation/cp5-le-tdah-a-lecole-le-comprendre-et-savoir-proposer-un-accompagnement-pedagogique",
-      "img": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=1200&q=80",
-      "lead": "Formation INSEI de 18 heures (asynchrone + synchrone) qui présente les mécanismes cognitifs du TDAH et propose des leviers concrets d'accompagnement pédagogique pour les enseignants.",
-      "tags": [
-        "inclusion",
-        "TDAH",
-        "formation",
-        "accompagnement"
-      ]
-    },
-    {
       "id": "inclusion-010",
       "theme": "inclusion",
       "themes": [
@@ -958,6 +1091,27 @@
         "dys",
         "association",
         "praticien"
+      ]
+    },
+    {
+      "id": "inclusion-002",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "fiche",
+      "titre": "CP5 - Le TDAH à l'école : le comprendre et savoir proposer un accompagnement pédagogique",
+      "source": "INSEI",
+      "auteur": "INSEI",
+      "date": "2024-09-01",
+      "url": "https://www.insei.fr/formation/cp5-le-tdah-a-lecole-le-comprendre-et-savoir-proposer-un-accompagnement-pedagogique",
+      "img": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?w=1200&q=80",
+      "lead": "Formation INSEI de 18 heures (asynchrone + synchrone) qui présente les mécanismes cognitifs du TDAH et propose des leviers concrets d'accompagnement pédagogique pour les enseignants.",
+      "tags": [
+        "inclusion",
+        "TDAH",
+        "formation",
+        "accompagnement"
       ]
     },
     {
@@ -1260,23 +1414,24 @@
       ]
     },
     {
-      "id": "evaluation-001",
+      "id": "evaluation-003",
       "theme": "evaluation",
       "themes": [
         "evaluation"
       ],
-      "type": "dossier",
-      "titre": "Comprendre — L'évaluation en classe, au service de l'apprentissage des élèves",
+      "type": "rapport",
+      "titre": "Dossier de synthèse — L'évaluation en classe, au service de l'apprentissage",
       "source": "Cnesco",
-      "auteur": "Cnesco — Conférence de consensus",
+      "auteur": "Cnesco / CNAM",
       "date": "2023-03-01",
-      "url": "https://www.cnesco.fr/fr/evaluation-en-classe/ressources-scientifiques/",
-      "img": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&q=80",
-      "lead": "Portail scientifique du Cnesco regroupant l'ensemble des contributions de chercheurs préparant la conférence de consensus 2022 sur l'évaluation en classe au service de l'apprentissage.",
+      "url": "https://www.cnesco.fr/wp-content/uploads/2023/03/Cnesco-CC-Eval_Dossier-de-synthese.pdf",
+      "img": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?w=1200&q=80",
+      "lead": "Synthèse opérationnelle du Cnesco : impact négatif de la référence normative, intérêt des feedbacks précis, des grilles critériées et de l'évaluation formative pour soutenir les apprentissages.",
       "tags": [
         "evaluation",
         "Cnesco",
-        "recherche"
+        "synthèse",
+        "feedback"
       ]
     },
     {
@@ -1301,24 +1456,23 @@
       ]
     },
     {
-      "id": "evaluation-003",
+      "id": "evaluation-001",
       "theme": "evaluation",
       "themes": [
         "evaluation"
       ],
-      "type": "rapport",
-      "titre": "Dossier de synthèse — L'évaluation en classe, au service de l'apprentissage",
+      "type": "dossier",
+      "titre": "Comprendre — L'évaluation en classe, au service de l'apprentissage des élèves",
       "source": "Cnesco",
-      "auteur": "Cnesco / CNAM",
+      "auteur": "Cnesco — Conférence de consensus",
       "date": "2023-03-01",
-      "url": "https://www.cnesco.fr/wp-content/uploads/2023/03/Cnesco-CC-Eval_Dossier-de-synthese.pdf",
-      "img": "https://images.unsplash.com/photo-1518133835878-5a93cc3f89e5?w=1200&q=80",
-      "lead": "Synthèse opérationnelle du Cnesco : impact négatif de la référence normative, intérêt des feedbacks précis, des grilles critériées et de l'évaluation formative pour soutenir les apprentissages.",
+      "url": "https://www.cnesco.fr/fr/evaluation-en-classe/ressources-scientifiques/",
+      "img": "https://images.unsplash.com/photo-1453733190371-0a9bedd82893?w=1200&q=80",
+      "lead": "Portail scientifique du Cnesco regroupant l'ensemble des contributions de chercheurs préparant la conférence de consensus 2022 sur l'évaluation en classe au service de l'apprentissage.",
       "tags": [
         "evaluation",
         "Cnesco",
-        "synthèse",
-        "feedback"
+        "recherche"
       ]
     },
     {
@@ -1445,27 +1599,6 @@
       ]
     },
     {
-      "id": "inclusion-008",
-      "theme": "inclusion",
-      "themes": [
-        "inclusion"
-      ],
-      "type": "video",
-      "titre": "TDAH + Haut Potentiel : Double peine ou double chance ? (Dr Olivier Revol)",
-      "source": "YouTube — Dr Olivier Revol",
-      "auteur": "Dr Olivier Revol",
-      "date": "2022-09-15",
-      "url": "https://www.youtube.com/watch?v=H-RSOaCWdCQ",
-      "img": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1200&q=80",
-      "lead": "Conférence du pédopsychiatre lyonnais Olivier Revol sur la co-occurrence TDAH/HPI : reconnaître les profils mixtes, ajuster les regards et les pratiques pédagogiques.",
-      "tags": [
-        "inclusion",
-        "TDAH",
-        "HPI",
-        "vidéo"
-      ]
-    },
-    {
       "id": "posture-004",
       "theme": "posture",
       "themes": [
@@ -1484,6 +1617,27 @@
         "autorité",
         "Robbes",
         "livre"
+      ]
+    },
+    {
+      "id": "inclusion-008",
+      "theme": "inclusion",
+      "themes": [
+        "inclusion"
+      ],
+      "type": "video",
+      "titre": "TDAH + Haut Potentiel : Double peine ou double chance ? (Dr Olivier Revol)",
+      "source": "YouTube — Dr Olivier Revol",
+      "auteur": "Dr Olivier Revol",
+      "date": "2022-09-15",
+      "url": "https://www.youtube.com/watch?v=H-RSOaCWdCQ",
+      "img": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=1200&q=80",
+      "lead": "Conférence du pédopsychiatre lyonnais Olivier Revol sur la co-occurrence TDAH/HPI : reconnaître les profils mixtes, ajuster les regards et les pratiques pédagogiques.",
+      "tags": [
+        "inclusion",
+        "TDAH",
+        "HPI",
+        "vidéo"
       ]
     },
     {
@@ -2034,6 +2188,26 @@
       ]
     },
     {
+      "id": "motivation-008",
+      "theme": "motivation",
+      "themes": [
+        "motivation"
+      ],
+      "type": "article",
+      "titre": "Prendre en compte la motivation des étudiants dans la pédagogie avec Rolland Viau",
+      "source": "Innovation Pédagogique",
+      "auteur": "Innovation pédagogique",
+      "date": "2016-03-24",
+      "url": "https://www.innovation-pedagogique.fr/article356.html",
+      "img": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&q=80",
+      "lead": "Présentation du modèle de Rolland Viau (perception de la valeur, de sa compétence et de la contrôlabilité) appliqué à l'enseignement supérieur.",
+      "tags": [
+        "motivation",
+        "Viau",
+        "supérieur"
+      ]
+    },
+    {
       "id": "asynchrone-010",
       "theme": "asynchrone",
       "themes": [
@@ -2074,26 +2248,6 @@
         "retour-experience",
         "tablettes",
         "bilan"
-      ]
-    },
-    {
-      "id": "motivation-008",
-      "theme": "motivation",
-      "themes": [
-        "motivation"
-      ],
-      "type": "article",
-      "titre": "Prendre en compte la motivation des étudiants dans la pédagogie avec Rolland Viau",
-      "source": "Innovation Pédagogique",
-      "auteur": "Innovation pédagogique",
-      "date": "2013-04-19",
-      "url": "https://www.innovation-pedagogique.fr/article356.html",
-      "img": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=1200&q=80",
-      "lead": "Présentation du modèle de Rolland Viau (perception de la valeur, de sa compétence et de la contrôlabilité) appliqué à l'enseignement supérieur.",
-      "tags": [
-        "motivation",
-        "Viau",
-        "supérieur"
       ]
     },
     {
