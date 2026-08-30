@@ -382,52 +382,15 @@ function renderRecap() {
 
 // --------- BIBLIOTHÈQUE ---------
 function renderBibliotheque() {
-  const peda = STATE.data.pedagogie || {};
-  const modules = peda.modules || [];
-  const nbParties = modules.reduce((n, m) => n + ((m.parties || []).length), 0);
-
   APP.innerHTML = `
     <section class="home-hero">
       <div class="home-hero-inner">
         <span class="home-eyebrow">Bibliothèque</span>
         <h1>Documents et ressources</h1>
-        <p class="home-lead">L'ensemble des contenus du parcours certifiant, module par module et partie par partie : ${modules.length} modules, ${nbParties} parties.</p>
+        <p class="home-lead">Livrets et supports téléchargeables liés à la formation.</p>
       </div>
     </section>
-
-    ${modules.map(m => `
-      <section class="section">
-        <div class="section-head">
-          <div class="section-eyebrow">Module ${m.num} · ${esc(m.duree)}</div>
-          <h2>${esc(m.title)}</h2>
-        </div>
-        <p class="home-lead" style="margin-bottom:22px;">${esc(m.tagline)}</p>
-        ${m.status === 'coming-soon'
-          ? '<p style="color:var(--ink2);">Contenu à venir.</p>'
-          : `<div class="parties-grid">
-              ${(m.parties || []).map(p => `
-                <a class="partie-card" href="#module/${m.num}/partie/${p.num}">
-                  <div class="partie-num">P${p.num}</div>
-                  <div class="partie-body">
-                    <div class="partie-eyebrow">${esc(p.duree)}</div>
-                    <h3>${esc(p.title)}</h3>
-                    <p>${esc(p.tagline)}</p>
-                    <div class="partie-cta">Ouvrir la partie →</div>
-                  </div>
-                </a>
-              `).join('')}
-            </div>
-            <div class="home-cta-row" style="margin-top:22px;">
-              <a class="cta-secondary" href="#module/${m.num}">Voir le module complet</a>
-            </div>`}
-      </section>
-    `).join('')}
-
     <section class="section">
-      <div class="section-head">
-        <div class="section-eyebrow">Prochainement</div>
-        <h2>Supports téléchargeables</h2>
-      </div>
       <p style="color:var(--ink2);">À venir : livrets formateurs, fiches méthode, supports d'animation.</p>
     </section>
   `;
