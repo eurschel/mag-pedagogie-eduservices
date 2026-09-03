@@ -2,18 +2,31 @@
 # -*- coding: utf-8 -*-
 """
 Publie un fichier sur GitHub via l'API Contents (sans Git local).
-Lit le token dans .secrets/github_token_mag_ia.txt (jamais commite).
+Lit le token dans .secrets/github_token_mag_pedagogie.txt (jamais commite).
 
 Usage:
     python tools/publish_github.py <fichier_local> <chemin_dans_le_repo> "message de commit"
+
+NOTE : la version qui se trouvait dans le depot etait une copie non adaptee de
+celle du mag IA — elle pointait vers eurschel/mag-ia-eduservices et lisait le
+token du mag IA. Corrige ici.
 """
 import sys, json, base64, urllib.request, urllib.error, urllib.parse
 from pathlib import Path
 
-REPO = "eurschel/mag-ia-eduservices"
+REPO = "eurschel/mag-pedagogie-eduservices"
 BASE = Path(__file__).resolve().parent.parent
-TOKEN = (BASE / ".secrets" / "github_token_mag_ia.txt").read_text(encoding="utf-8").strip()
+TOKEN_FILE = BASE / ".secrets" / "github_token_mag_pedagogie.txt"
 API = "https://api.github.com"
+
+if not TOKEN_FILE.exists():
+    sys.exit(
+        "Token absent : %s\n"
+        "Cree un jeton GitHub a portee 'Contents: Read and write' sur le depot %s,\n"
+        "et colle-le seul dans ce fichier (le dossier .secrets/ est ignore par git)."
+        % (TOKEN_FILE, REPO)
+    )
+TOKEN = TOKEN_FILE.read_text(encoding="utf-8").strip()
 
 
 def _req(method, path, body=None):
@@ -22,7 +35,7 @@ def _req(method, path, body=None):
         headers={
             "Authorization": "Bearer " + TOKEN,
             "Accept": "application/vnd.github+json",
-            "User-Agent": "mag-nancy-bot",
+            "User-Agent": "mag-pedagogie-bot",
             "X-GitHub-Api-Version": "2022-11-28",
         },
     )
@@ -50,7 +63,7 @@ def publish(local_path, repo_path, message):
     code, resp = _req("PUT", "/repos/%s/contents/%s" % (REPO, enc), body)
     if code in (200, 201):
         commit = (resp.get("commit") or {}).get("sha", "")[:7]
-        print("OK  %-30s %6s KB  commit %s" % (repo_path, size_kb, commit))
+        print("OK    %-58s %8s Ko  commit %s" % (repo_path, size_kb, commit))
         return True
     print("ECHEC %s (HTTP %s) : %s" % (repo_path, code, resp.get("message")))
     return False
@@ -58,7 +71,6 @@ def publish(local_path, repo_path, message):
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print(__doc__)
-        sys.exit(1)
+        sys.exit(__doc__)
     ok = publish(sys.argv[1], sys.argv[2], sys.argv[3])
     sys.exit(0 if ok else 1)
